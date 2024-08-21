@@ -1,0 +1,501 @@
+id,operacional_system,processor,memory,graphics,fk_game_id
+XP SP2,Intel Pentium D 2.6 GHz | AMD Athlon 64 X2 3800+ 2.0 GHz,1 GB,Nvidia GeForce 6800 XT ATI Radeon HD 2400 Series 256 MB of VRAM DirectX 9.0c compatible,8 GB,4c81547b81064acfb1902be7b06d6366
+Vista,Intel Core 2 Duo 2.2 GHz | AMD Athlon 64 X2 4400+ 2.3 GHz,2 GB,Nvidia GeForce 9600 GT ATI Radeon HD 3800 series 512 MB of VRAM DirectX 10 compatible,8 GB,4c81547b81064acfb1902be7b06d6366
+Windows® XP or Vista,1GHz or faster,512+MB RAM,Any 3D graphics accelerator less than 5 years old,100MB,5f82cbea3fdd42e2b9b9dfe8439b96b3
+Windows® XP or Vista,1GHz or faster,512+MB RAM,Any 3D graphics accelerator less than 5 years old,100MB,5f82cbea3fdd42e2b9b9dfe8439b96b3
+"Windows Vista, 7 or 8 (64-bit only)",Dual Core CPU (2.2+ GHz Dual Core CPU or better) ,2 GB RAM,"DirectX 10, Shader Model 4 compliant graphics cards (GeForce 8800 GT 512 MB, GeForce GTS 250, etc)",10 GB available space,0dfa5a4398bb44c8b1ac34e5f248fab9
+Windows 7 or 8 (64-bit only),Any Quad Core or 3.0+ GHz Dual Core CPU,4 GB RAM,DirectX 11 compliant graphics card (GeForce GTX 480 and above),10 GB available space,0dfa5a4398bb44c8b1ac34e5f248fab9
+Vista/XP,3Ghz Intel or AMD or any Dual Core,1GB Ram(XP)/2GB Ram,PCI Express SM3 NVidia 6600/ ATI 1300,8GB free space,0f96082fc0b8475db86cba86c8b6a796
+TBD,TBD,TBD,TBD,TBD,0f96082fc0b8475db86cba86c8b6a796
+Windows XP SP3,1.4 GHz dual core CPU,1 GB RAM,"256 MB GeForce 7600GS, Radeon X1600, or Intel HD Graphics",1.0 GB free hard drive space,e6dfe28ad2644018aa29f67054ff0391
+Windows 7 or higher,2.2 GHz dual core CPU,1 GB RAM,"256 MB GeForce 220, Radeon 4550, Intel HD 3000 Graphics",1.0 GB free hard drive space,e6dfe28ad2644018aa29f67054ff0391
+Windows Vista,Dual Core 1.6 GHz,2 GB,OpenGL 1.4,140 Mb,e97aca322ee540edac26749e74e94ca1
+"Windows XP, Windows Vista or Windows 7",Intel Core 2 Duo 2 GHz or AMD Athlon 64 X2 3800+ - 2x 2000 MHz,1 GB RAM,"NVIDIA 7600, 7800, 8xxx or better, ATI 1950 or better",10 GB,bad91db9e66044fdaf195d6a8e882cdb
+"Windows XP, Windows Vista or Windows 7",Quad core CPU 2.7 GHz,2 GB RAM,NVIDIA GeForce 8800 or better; ATI HD3870 or better,10 GB,bad91db9e66044fdaf195d6a8e882cdb
+"Windows XP, Vista, 7",Intel Core 2 Duo 2.4 GHz or AMD Athlon X2 4800+,2GB RAM,ATI 3850HD 512 MB or NVIDIA GeForce 8800 GT 512MB,17 GB free hard drive space,1d96b05c04804b4e8df4b376e3c1c490
+TBD,TBD,TBD,TBD,TBD,1d96b05c04804b4e8df4b376e3c1c490
+Windows® 7SP1 / Windows® 8,"2.6 GHz Intel® Core®2 Duo E6700, 3.0Ghz AMD® Athlon64 X2 6000+",4 GB RAM,512 MB DirectX® 10 compliant with Shader Model 4.0 or higher (see supported list),15 GB available space,50ca821abd824c2994ad1798eb8454a6
+Windows® 7SP1 / Windows® 8,"2.9 Ghz Intel® Core®i3-530 or better, 3.1 GHz AMD® PhenomII X2",4 GB RAM,"DirectX® 11 compliant, 1024Mb Video/Graphics Card",17 GB available space,50ca821abd824c2994ad1798eb8454a6
+Windows XP Service Pack 3,Intel Core 2 Duo 2GHz or equivalent,3 GB RAM,ATI or NVidia card w/ 512 MB RAM,8 GB available space,b4eb01e10f224126b7b4f7a56a65a6ec
+Windows 7 64Bit Service Pack 1,Core 2 Duo 2.3 Ghz or equivalent,4 GB RAM,ATI or NVidia card w/ 1024 MB RAM,15 GB available space,b4eb01e10f224126b7b4f7a56a65a6ec
+"OPERATING SYSTEM: Windows XP SP3, Vista SP2, Windows 7® SP1, Windows 8 (both 32/64bit versions)",Intel Core®2Duo E2180 @ 2.0 GHz or AMD Athlon™ X2 3800+ @ 2.0 GHz,2 GB,nVidia GeForce® 7900GT or AMD Radeon™ 2900 - See supported List*,4 GB,4daf8ec797014b5eb4a9cdb41d73bb60
+"Windows XP SP3, Vista SP2, Windows 7® SP1, Windows 8 (both 32/64bit versions)",Intel Core®2Duo E4400 @ 2.0 GHz or better / AMD Athlon™ X2 4400+ @ 2.3 GHz or better,4GB or more,nVidia GeForce® 8800GT or AMD Radeon™ HD3870) / 512MB VRAM with Shader Model 3.0 or higher - See supported List*,4 GB,4daf8ec797014b5eb4a9cdb41d73bb60
+"Windows Vista, Windows 7 SP1, Windows 8/8.1 (32/64bit versions)",Intel Core2Duo E8200 @ 2.6 GHz or AMD Athlon II X2 240 @ 2.8 GHz,2 GB RAM,nVidia GeForce 8800 GT or AMD Radeon HD2900 XT (512MB VRAM with Shader Model 4.0 or higher),3 GB available space,7981b6d8a37142b9aed96155b93ff8da
+"Windows Vista, Windows 7 SP1, Windows 8/8.1 (32/64bit versions)",Intel Core2Quad Q8400 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz,4 GB RAM,nVidia GeForce GTX260 or AMD Radeon HD4870 (512MB VRAM with Shader Model 4.0 or higher),3 GB available space,7981b6d8a37142b9aed96155b93ff8da
+Windows 7 32-bit,Dual Core CPU - 2.6ghz,4 GB RAM,1GB VRAM: Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT,3 GB available space,9a03fddd502943d2af8c94daeb667b04
+Windows 7 32-bit,Dual Core CPU - 2.6ghz,4 GB RAM,1GB VRAM: Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT,3 GB available space,9a03fddd502943d2af8c94daeb667b04
+Windows 7+,1.7 GHz,1 GB,1280x720 Minimum Resolution,200 MB,61b641c3702f4770ac525101b39f0063
+Windows 7+,1.7 GHz,1 GB,TBD,200 MB,61b641c3702f4770ac525101b39f0063
+"Windows®XP SP3, Windows Vista/7/8 with latest service packs and updates installed",Intel Core 2 Duo or equivalent AMD dual core CPU,2 GB RAM,"NVIDIA GeForce 7600GS or ATI Radeon 1950, 256 Mb RAM",10 GB available space,84505cf3bfd8411288bb15489ca8ed48
+Windows XP/Vista/7/8,"Intel i5, 4 x 2.6 GHz or AMD equivalent",4 GB RAM,"NVIDIA GeForce GTX 480 or ATI Radeon HD 5850 or better, 1Gb RAM",10 GB available space,84505cf3bfd8411288bb15489ca8ed48
+"Windows 7 SP1, Windows 8/8.1 (64-bit operating system required)",Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHz,6 GB RAM, NVIDIA GeForce GTX 680 or AMD Radeon HD 7970 (2 GB VRAM),50 GB available space,534710b9b01d46b49a8d31ce5ad8ff36
+"Windows 7 SP1, Windows 8/8.1 (64-bit operating system required)",Intel Core i7-3770 @ 3.4 GHz or AMD FX-8350 @ 4.0 GHz or better,8 GB RAM,NVIDIA GeForce GTX 780 or AMD Radeon R9 290X (3 GB VRAM),50 GB available space,534710b9b01d46b49a8d31ce5ad8ff36
+Windows® 7 (SP1) / Windows® 8 / Windows® 8.1 / (64-bit only),2.6 GHz Intel® Core™ i5-750 or 3.2 GHz AMD Phenom™ II X4 955,4 GB RAM, NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1 GB VRAM),30 GB available space,c071ea77ba2f4983b4515eae0f4216b6
+Windows® 7 (SP1) / Windows® 8 / Windows® 8.1 / (64-bit only),2.5 GHz Intel® Core™ i5-2400S or 4.0 GHz AMD FX-8350 or better,8 GB RAM, NVIDIA GeForce GTX 680 or AMD Radeon R9 290X or better (2 GB VRAM),30 GB available space,c071ea77ba2f4983b4515eae0f4216b6
+Windows XP,Intel Pentium E2180 2.0 GHz,500 MB RAM,Intel HD Graphics 4400,300 MB available space,5de1872a341c4536809185219ef71222
+Windows XP,Intel Pentium E2180 2.0 GHz,500 MB RAM,Intel HD Graphics 4400,300 MB available space,5de1872a341c4536809185219ef71222
+"Windows Vista, 7 or 8 (64-bit only)",Dual Core CPU (2.2+ GHz Dual Core CPU or better),2 GB RAM,"DirectX 10, Shader Model 4 compliant graphics cards (GeForce 8800 GT 512 MB, GeForce GTS 250, etc)",10 GB available space,bc42dc435f324da6b5e623c4f5a01d6e
+Windows 7 or 8 (64-bit only),Any Quad Core or 3.0+ GHz Dual Core CPU,4 GB RAM,DirectX 11 compliant graphics card (GeForce GTX 480 and above),10 GB available space,bc42dc435f324da6b5e623c4f5a01d6e
+"Win 7 SP1, Win 8.1 (64-bit Operating System Required)","Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz",6 GB RAM,Graphics: NVIDIA GeForce GTX 660 (2 GB Memory Minimum) | AMD Radeon HD 7870 (2 GB Memory Minimum),45 GB available space,f036adb25c9347c69344b7642cb31e64
+"Win 7 SP1, Win 8.1 (64-bit Operating System Required)","Intel Core i7-3770, 3.4 GHz | AMD FX-8350, 4.0 GHz",8 GB RAM,NVIDIA GeForce GTX 760 - 3 GB Memory Recommended | AMD Radeon HD 7950 - 3 GB Memory Recommended,55 GB available space,f036adb25c9347c69344b7642cb31e64
+Windows XP SP3 or Windows Vista SP2 or Windows 7 SP1 or Windows 8 (both 32/64bit versions),Intel Pentium IV 630 @ 3.0 GHz or AMD Athlon64 3000 + @ 1.8 GHz,2 GB RAM,nVidia GeForce 8800 GT or AMD Radeon HD2900 XT (512MB VRAM),2 GB available space,e3fdf1e813a54f44b71f30a411e9c23e
+Windows XP SP3 or Windows Vista SP2 or Windows 7 SP1 or Windows 8 (both 32/64bit versions),Intel Core 2 Duo E4400 @ 2.0 GHz or AMD Athlon64 X2 3800+ @ 2 GHz,2 GB RAM,"NVidia GeForce 9600GT or higher, AMD Radeon HD3850 or higher (512MB VRAM with Shader Model 4.0)",2 GB available space,e3fdf1e813a54f44b71f30a411e9c23e
+64-bit 10.9. This product is not compatiable with macOS 10.15 Catalina or later.,Core i3 2.4Ghz, 4 GB RAM,NVIDIA GeForce GTX 260 / AMD Radeon HD 5750. OpenGL 3.3,25 GB,4c0ccb5098414557a12a921d8c17acb2
+64-bit 10.9. This product is not compatiable with macOS 10.15 Catalina or later.,Core i5 2.4Ghz,8 GB RAM,NVIDIA GeForce GTX 480 / AMD Radeon HD 5970. OpenGL 3.3,25 GB,4c0ccb5098414557a12a921d8c17acb2
+XP or later,1.5Ghz CPU,1 GB RAM,graphics card that supports Shader Model 2.0 or greater,200 MB available space,fa12d8a775a14c29863354f05999e621
+XP or later,1.5Ghz CPU,1 GB RAM,graphics card that supports Shader Model 2.0 or greater,200 MB available space,fa12d8a775a14c29863354f05999e621
+"Windows XP, Windows 7, Windows Vista, Windows 8, Windows 10","Intel® Core™ 2 Duo 2.4 GHz, AMD Athlon™ X2 2.8 GHz, or higher",2GB Ram or higher,"Shader Model 3.0, 512 Vram",2GB Disk Space,73f7ee3f9e5540ff963573b9c3b08744
+"Windows XP, Windows 7, Windows Vista, Windows 8, Windows 10","Intel® Core™ 2 Duo 2.4 GHz, AMD Athlon™ X2 2.8 GHz, or higher",2GB Ram or higher,"Shader Model 3.0, 512 Vram",2GB Disk Space,73f7ee3f9e5540ff963573b9c3b08744
+"Windows XP, Windows Vista SP1, Windows 7, Windows 8 or Windows 10 (64bit)",2.0Ghz Intel® Core™2 Duo Processor or AMD equivalent,4 GB RAM, NVIDIA 9800 GT 512 MB Video Card or AMD equivalent,13 GB available space,7285f8134497432fa68378ef9efe8dc2
+"Windows 7, Windows 8 or Windows 10 (64bit)",Any Quad-core AMD or Intel Processor,8 GB RAM,NVIDIA GeForce GTX 260 512MB Video Card or AMD equivalent,13 GB available space,7285f8134497432fa68378ef9efe8dc2
+Windows 7 | Windows 8.1 | Windows 10 | 64 bit only,Intel Core i3 560 @ 3.3 GHz | AMD Phenom II X4 945 @ 3.0 GHz,6 GB RAM,NVIDIA GeForce GTX 460 | AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM),61 GB available space,9f47dad590a44949b1e2eb519adc0ca1
+Windows 7 SP1 | Windows 8.1 | Windows 10 | 64 bit only,Intel Core i5-2500K @ 3.3 GHz | AMD FX-8120 @ 3.1 Ghz,8 GB RAM, NVIDIA GeForce GTX 670 (or GTX 760 / GTX 960) | AMD Radeon HD 7970 (or R9 280x [2GB VRAM] / R9 380 / Fury X),61 GB available space,9f47dad590a44949b1e2eb519adc0ca1
+Windows XP Service Pack 3,Core 2 Duo 2GHz or equivalent,3 GB RAM,ATI or NVIDIA card w/512 MB RAM,3 GB available space,96fc42dfd48f4689afa8ddf5227198d5
+Windows XP Service Pack 3,Core 2 Duo 2GHz or equivalent,3 GB RAM,ATI or NVIDIA card w/512 MB RAM,3 GB available space,96fc42dfd48f4689afa8ddf5227198d5
+Windows 7,"Intel Core2Quad Q6600 2,40 GHz",4 GB RAM, GeForce GTX 650 (1024 MB Ram),4 GB available space,42ccb715787e47f48648159060135ef1
+Windows 7," Intel Core I5-4440 3,10 GHz",8 GB RAM,GeForce GTX 660 (2048 MB Ram),4 GB available space,42ccb715787e47f48648159060135ef1
+"Windows 7, Windows 8.1, Windows 10 (64-bit versions only)", Intel Core i3-550 | AMD Phenom II X4 955 or equivalent,4 GB RAM,NVIDIA GeForce GTX 460 (1GB VRAM) | AMD Radeon HD 5770 (1GB VRAM) or equivalent,20 GB available space,d6d175fb16614efc92fe6e65eb8638a3
+"Windows 7, Windows 8.1, Windows 10 (64-bit versions only)",Intel Core i7-2600K | AMD FX-8350 or equivalent,8 GB RAM,NVIDIA GeForce GTX 780 | AMD Radeon R9 280X or equivalent,20 GB available space,d6d175fb16614efc92fe6e65eb8638a3
+"Windows® 7, Windows 8.1, Windows 10 (64-bit versions only)","Intel Core i5-2400 | AMD FX-6100, or better",6 GB RAM,"NVIDIA GeForce GTX 560 with 2 GB VRAM (current equivalent NVIDIA GeForce GTX 760) | AMD Radeon HD 7770 with 2 GB VRAM, or better",40 GB,0779c614dfa54d6b9905199bd5f3c195
+Windows 7 SP1 or Windows 8.1 or Windows 10,Dual core from Intel or AMD at 2 GHz or better,2 GB RAM,Video/Graphics Card must be 512 MB or more and should be a DirectX 10 - compatible or DirectX 11 - compatible,5 GB available space,f7246f00b7c44619974b60aa276fa606
+Windows 7 and above,1.2 ghz,4 GB RAM,512 mb video memory,2 GB available space,4e7c7a4652c247ab8019906f7d60739c
+TBD,TBD,TBD,TBD,TBD,4e7c7a4652c247ab8019906f7d60739c
+Windows 7 or later,Intel Core 2 Duo E6320 (2*1866) or equivalent,2GB RAM,GeForce 7600 GS (512 MB) or equivalent,2GB HDD,e820a1ab24ca4bd2b725ba33194489d4
+Windows 7 or later,Intel Core 2 Duo E6320 (2*1866) or equivalent,2GB RAM,GeForce 7600 GS (512 MB) or equivalent,2GB HDD,e820a1ab24ca4bd2b725ba33194489d4
+Mac OS X 10.13 (High Sierra),2.0 GHz dual i5,4 GB RAM,Intel Iris Pro 5200 1536 MB or AMD Radeon R9 M370X 2GB or Metal-capable equivalent,3 GB available space,73021f8411c9435e8b6f35faacdc2978
+Mac OS X 10.15.7 (Catalina),3.1 GHz 4Core Intel i7,8 GB RAM,Radeon Pro 560 4 GB or Metal-capable equivalent,3 GB available space,73021f8411c9435e8b6f35faacdc2978
+"Windows 7, 64-bit",3.0GHz CPU Dual Core,4 GB RAM,Geforce GTX 750 / Radeon R7 260X,6 GB available space,dedd448c38d947ab90291540f183378b
+"Windows 7, 64-bit",2.4GHz CPU Quad Core,8 GB RAM,Geforce GTX 780 / Radeon R9 290X,6 GB available space,dedd448c38d947ab90291540f183378b
+"Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions only)","Intel Core i5 2400s @ 2.5 GHz, AMD FX 6120 @ 3.5 GHz or better",6 GB RAM,"NVIDIA GeForce GTX 660 with 2 GB VRAM or AMD Radeon HD 7870, with 2 GB VRAM or better - See supported List*",50 GB,57001074e2cf4d048839e4a2ebb44d71
+"Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions only)","Intel Core i5 3470 @ 3.2 GHz, AMD FX 8120 @ 3.9 GHz",8 GB RAM,"NVIDIA GeForce GTX 780 | AMD Radeon R9 290, with 3GB VRAM or better - See supported List*",50 GB,57001074e2cf4d048839e4a2ebb44d71
+"Windows 7, Windows 8, Windows 10", Intel or AMD Dual Core CPU,4 GB RAM,DirectX 10 Feature Level AMD or NVIDIA Card with 1 GB VRAM,36 GB available space,d3f4613cb74c4c38b022c36bb26ead88
+"Windows 7, Windows 8, Windows 10", Intel or AMD Dual Core CPU,8 GB RAM,DirectX 11 Feature Level AMD or NVIDIA Card with 1 GB VRAM,36 GB available space,d3f4613cb74c4c38b022c36bb26ead88
+Windows 7 SP1 or Windows 8.1 or Windows 10(64 bit versions),Intel Core i5 2400S at 2.5 Ghz or AMD FX-4100 at 3.6 Ghz,6 GB RAM,GeForce GTX 560TI or Radeon R7 260X,25 GB available space,afc09953666043cdbece0b2a65989bc3
+Windows 7 SP1 or Windows 8.1 or Windows 10(64 bit versions),Intel Core i7 3770K at 3.5 Ghz or AMD FX-8350 at 4.0 Ghz,8 GB RAM,GeForce GTX 970 or Radeon R9 390,25 GB available space,afc09953666043cdbece0b2a65989bc3
+Windows 7 64Bit Service Pack 1,Intel Core 2 Duo 2.4GHz,3 GB RAM,Nvidia GTS 450+ with 1024MB+ VRAM (excluding GT),16 GB available space,e18ee56df6cd425c8615e2709f8e7bb1
+Windows 7 64Bit Service Pack 1,Intel Core i5-2500K,3 GB RAM,Nvidia GeForce GTX 960,16 GB available space,e18ee56df6cd425c8615e2709f8e7bb1
+Windows 10 (64-bit versions only),Intel Core i3-4150 | AMD FX-4300 or equivalent,4 GB RAM,NVIDIA GeForce GTX950 / GTX1050 with 2 GB VRAM | AMD Radeon R9 270 / R9 370 / RX460 with 2 GB VRAM,90 GB,eb11056108a0450bb70c3fdca459ea8d
+"Windows 10, Windows 11 (64-bit versions only)",Intel Core i5-7500 | AMD Ryzen 5 1400 or equivalent, 8 GB RAM,NVIDIA GeForce GTX1080 with 3 GB VRAM or more | AMD Radeon RX580 with 4 GB VRAM or more,90 GB,eb11056108a0450bb70c3fdca459ea8d
+Windows 7 SP1 64-bit,Intel Core i3-2125 or AMD A8-6600K,6 GB RAM,GeForce GTX 650 or Radeon HD 5770,6 GB available space,617b64a9631c4df0a66ea8fca480d2b9
+Windows 10 64-bit, Intel Core i5-2550 or AMD FX-8120,7 GB RAM,GeForce GTX 660 or Radeon R9 270,8 GB available space,617b64a9631c4df0a66ea8fca480d2b9
+"64-Bit Windows 7 Service Pack 1, or Windows 8",Intel Core 2 Duo E6320 (2*1866) or equivalent,2GB RAM,GeForce 7600 GS (512 MB) or equivalent,2GB HDD,11c4b859bfd143d798bf84b8cfe1964f
+TBD,TBD,TBD,TBD,TBD,11c4b859bfd143d798bf84b8cfe1964f
+Windows Vista SP2 64-bit or later,Intel i3 2125 3.30 GHz or later,2 GB RAM,GeForce GTX 750/AMD Radeon 7790 or later,5 GB available space,b1f4888a7c9b4449b6bfbace4de24a9c
+Windows 7 64-bit,Intel Core i5 2310 2.9 GHz / AMD FX-6300,4 GB RAM,GTX 550 Ti 1GB/ Radeon 6950 1GB or better,7700 MB available space,afaa5744cbcd46caa500e342f9f47d84
+Windows 10 64-bit,Intel i5 3570k / AMD FX-8350,8 GB RAM,GTX 770 2GB / Radeon R9 280X 3GB or better,7700 MB available space,afaa5744cbcd46caa500e342f9f47d84
+Windows 7 64-bit,3.60GHz Intel Core i3-4160,6 GB RAM,"NVIDIA GeForce GTX 480/570/670, ATI Radeon HD 5870/5850",8 GB available space,f094afd81c3c4a3cb565b186e01c3bcd
+Windows 7 64-bit and above,3.50GHz Intel Core i5-4690K or AMD FX-9370,8 GB RAM,NVIDIA GeForce GTX 960 or AMD Radeon R7 370,8 GB available space,f094afd81c3c4a3cb565b186e01c3bcd
+Windows 7 or higher,Intel Core i3,2 GB RAM,dedicated graphics card (opengl 3.0 support or higher),500 MB available space,498e04695bbd4376ab574a103a4f36dd
+Windows 10,Intel Core i7,4 GB RAM,nvidia 960 or higher,500 MB available space,498e04695bbd4376ab574a103a4f36dd
+Windows 7+,2.2GHz Dual Core,4 GB RAM,512MB VRAM,1 GB available space,cd44981c3cea431a9a203ff94b132994
+Windows 7+,2.2GHz Dual Core,4 GB RAM,512MB VRAM,1 GB available space,cd44981c3cea431a9a203ff94b132994
+Windows 7/8/10 (64-bit OS required),"Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz",4 GB RAM,"NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent",3 GB available space,3f9b7d87d6ea4ac1bb26d49683bd7064
+Windows 8/10 (64-bit OS required),"Intel i7 920 @ 2.7 GHz, AMD Phenom II 945 @ 3.0 GHz",8 GB RAM,"NVIDIA GTX 660, Radeon R9-270",3 GB available space,3f9b7d87d6ea4ac1bb26d49683bd7064
+Windows 7/8.1/10 x64,Intel Core i5-760 (4 * 2800) or equivalent / AMD Athlon II X4 645 AM3 (4 * 3100) or equivalent,4 GB RAM,GeForce GTX 460 (1024 MB) / Radeon HD 6850 (1024 MB),10 GB available space,42d063eb91874990b29f5b9a3e083673
+Windows 7/8.1/10 x64, Intel Core i5-4670K (4 * 3400) or equivalent / AMD FX-6350 (6 * 3900) or equivalent,6 GB RAM,GeForce GTX 660 (2048 MB) / Radeon HD 7970 (3072 MB),10 GB available space,42d063eb91874990b29f5b9a3e083673
+"OPERATING SYSTEM: Windows XP SP3, Vista SP2, Windows 7® SP1, Windows 8 (both 32/64bit versions)",Intel Core®2Duo E2180 @ 2.0 GHz or AMD Athlon™ X2 3800+ @ 2.0 GHz,2 GB,nVidia GeForce® 7900GT or AMD Radeon™ 2900 - See supported List*,4 GB,b0f6e38a93634a3bbfa3200c47379558
+"Windows XP SP3, Vista SP2, Windows 7® SP1, Windows 8 (both 32/64bit versions)",Intel Core®2Duo E4400 @ 2.0 GHz or better / AMD Athlon™ X2 4400+ @ 2.3 GHz or better,4GB or more,nVidia GeForce® 8800GT or AMD Radeon™ HD3870) / 512MB VRAM with Shader Model 3.0 or higher - See supported List*,4 GB,b0f6e38a93634a3bbfa3200c47379558
+"Windows 7 SP1 | Windows 8.1, Windows 10 | 64-bit only",Intel Core i5-2400s @ 2.5 GHz | AMD FX-6350 @ 3.9 GHz or equivalent, 6 GB RAM,NVIDIA GeForce GTX 660 or AMD R9 270 | 2048 MB VRAM with Shader Model 5.0 or better,42 GB available space,db9fd3c0420240ffbccc5141059824b3
+"Windows 7 SP1 | Windows 8.1, Windows 10 | 64-bit only",Intel Core i5-2400s @ 2.5 GHz | AMD FX-6350 @ 3.9 GHz or equivalent, 8 GB RAM,NVIDIA GeForce GTX 760 or AMD R9 270 | 2048 MB VRAM with Shader Model 5.0 or better,42 GB available space,db9fd3c0420240ffbccc5141059824b3
+Windows XP SP2,1 GHz,512 MB RAM,GeForce 6 or Radeon X1000,680 MB available space,c579aecd34934b8e9ef7e636c0962e5c
+Windows XP SP2,1 GHz,512 MB RAM,GeForce 6 or Radeon X1000,680 MB available space,c579aecd34934b8e9ef7e636c0962e5c
+Windows 7 or newer,Intel Core i3 M380,2 GB RAM,Intel HD 4000,1300 MB available space,544c18ccadf8466691d8f2a335721b14
+TBD,TBD,TBD,TBD,TBD,544c18ccadf8466691d8f2a335721b14
+Windows 7 or Windows 10,AMD A8-7600 (3.1 Ghz) OR Intel Core i3 4170 (3.7 Ghz),8 GB RAM,Nvidia GPU GeForce GTX 650 / AMD GPU Radeon HD 6850 / Intel Iris Pro 5200,5 GB available space,95e8b0adb366410c892f8f6fc8ac1bfa
+Windows 7 or Windows 10,AMD A8-7600 (3.1 Ghz) OR Intel Core i3 4170 (3.7 Ghz),8 GB RAM,Nvidia GPU GeForce GTX 650 / AMD GPU Radeon HD 6850 / Intel Iris Pro 5200,5 GB available space,95e8b0adb366410c892f8f6fc8ac1bfa
+OS 64-bit Windows 7 or 64-bit Windows 8 (8.1) or Windows 10,"Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940",8 GB RAM,"Nvidia GPU GeForce GTX 660, AMD GPU Radeon HD 7870",70 GB available space,bd15ffd61c1744a295de36c164694e40
+OS 64-bit Windows 7 or 64-bit Windows 8 (8.1) or Windows 10,"Intel CPU Core i7 3770 3,4 GHz, AMD CPU AMD FX-8350 4 GHz",16 GB RAM,"Nvidia GPU GeForce GTX 1060, AMD GPU Radeon RX 580",90 GB available space,bd15ffd61c1744a295de36c164694e40
+OSX 10.11 or newer,4th Generation Intel i3 CPU or equivalent,4 GB RAM,OpenGL 4.1 (GeForce 600/AMD Radeon 5000 or higher) with 1GB of video RAM,6 GB available space,39516a5b66d04b75b25a810e593b0a97
+OSX 10.11 or newer,Fast quad-core CPUs,8 GB RAM,GeForce 970-level GPU with 4GB of video RAM,6 GB available space,39516a5b66d04b75b25a810e593b0a97
+Windows 7 64-bit,"Quad-core Intel or AMD processor, 2.5 GHz",4 GB RAM,NVIDIA GeForce GTX 470 or AMD Radeon 6870 HD series card,4 GB available space,0c8b6d95ff2746648ccd356dbf941c12
+Windows 7 64-bit,"Quad-core Intel or AMD processor, 2.5 GHz or faster",8 GB RAM,NVIDIA GeForce GTX 780 or AMD R9 290X series card or higher,4 GB available space,0c8b6d95ff2746648ccd356dbf941c12
+OSX 10.9.0 or later,Intel Pentium D 830 (2* 3000) or equivalent / AMD Athlon 64 4000+ (2600) or equivalent,1 GB RAM,GeForce 7600 GS (256 MB) / Radeon HD 2400 PRO (256 MB),200 MB available space,c3bb66a9e2064fa580597cee86cbc1df
+Windows 7 64Bit,Dual Core 2.4+ GHz,4 GB RAM,GeForce GTX 550 or Equivalent card,4 GB available space,ac2f9bdeb022454aab1ff77b59b2f3ed
+Windows 10 64bit,Intel i7 2.5 GHz,8 GB RAM,GeForce GTX 770 or Equivalent card,4 GB available space,ac2f9bdeb022454aab1ff77b59b2f3ed
+Windows 7,"Intel(R) Core(TM)2 Quad 2.7 Ghz, AMD Phenom(TM)II X4 3 Ghz",4 GB RAM,"GeForce GTX 260, Radeon HD 5770, 1024 MB, Shader Model 3.0",4 GB available space,19924135f32e4e1aa517f99a72e7cea4
+Windows 10,Intel(R) Core(TM) i5,8 GB RAM,GeForce GTX 660,4 GB available space,19924135f32e4e1aa517f99a72e7cea4
+Windows 7/8/10 (64 bits),Intel Core i3-2130 (3.4 GHz)/AMD FX-4100 (3.6 GHz),8 GB,"2 GB, GeForce GTX 1050 (Legacy GPU: GeForce GTX 660) / Radeon R7 370",20 GB available space,9afcebbb195348ac96e39954e20ddf33
+Windows 7/8/10 (64 bits),Intel Core i7-3930K (3.2 GHz)/AMD Ryzen 5 1600 (3.2 GHz),16 GB,"4 GB, GeForce GeForce GTX 970 / GTX 1060 / Radeon R9 390",20 GB available space,9afcebbb195348ac96e39954e20ddf33
+Windows 7 or later,2GHz 64-Bit CPU, 2 GB RAM, Dedicated graphics card with 1GB memory,2 GB available space,dff5698e513d49f4b6823c6472f07137
+Windows 10 or later,Intel Core i5-4590 or AMD FX 8350,4 GB RAM,NVIDIA GTX 970 or AMD Radeon R9 290 or higher,2 GB available space,dff5698e513d49f4b6823c6472f07137
+Windows 7 (32-bit),Dual Core 2.4Ghz,2 GB RAM,GeForce 8800 GT / AMD HD 6850 / Intel HD Graphics 4400 or above,750 MB available space,e9428ad618aa45f4b3371b8c8c4f9de9
+TBD,TBD,TBD,TBD,TBD,e9428ad618aa45f4b3371b8c8c4f9de9
+Windows 7 64Bit Service Pack 1,Intel Core 2 Duo 2.8GHz,3 GB RAM,Nvidia GeForce GTS 450 2GB,15 GB available space,ec4808acfd754b4f980daa0b93a56163
+Windows 7 64Bit Service Pack 1,Intel Core i5-2500K,3 GB RAM,Nvidia GeForce GTX 960,15 GB available space,ec4808acfd754b4f980daa0b93a56163
+XP or later,2.0Ghz CPU,1 GB RAM,graphics card that supports Shader Model 2.0 or greater,200 MB available space,396c5dd6af134fbc847406a690c96f99
+XP or later,2.0Ghz CPU,1 GB RAM,graphics card that supports Shader Model 2.0 or greater,200 MB available space,396c5dd6af134fbc847406a690c96f99
+Windows 7 (64 Bit),Intel Core2 Duo E8400,2 GB RAM,Radeon HD 3870,500 MB available space,2ae91a1e97f848f7bd51c2cfbec61a0e
+Windows 10 (64 Bit),Intel Core i3-4170 or better,4 GB RAM,Nvidia GeForce GT 640 or better,1 GB available space,2ae91a1e97f848f7bd51c2cfbec61a0e
+Windows 7,Intel Core i3 or equivalent,2 GB RAM,NVIDIA GeForce GTX 650 or equivalent,5420 MB available space,d89d1ecf209d42688d82909e522f2ec1
+Windows 10,Intel Core i5 or equivalent,4 GB RAM,NVIDIA GeForce GTX 960 or equivalent,5420 MB available space,d89d1ecf209d42688d82909e522f2ec1
+"Windows 7 SP1, Windows 8.1, Windows 10 | 64 bit only",AMD FX-8350 @ 4.0 GHz | Ryzen 5 - 1400 | Intel Core i7-3770 @ 3.5 GHz or better,8 GB RAM,AMD Radeon R9 285 | NVIDIA GeForce GTX 660 | 2GB VRAM with Shader Model 5.0,46+ GB available space,9e32f311abd24c4aa4c7f9c5dce25e75
+"Windows 7 SP1, Windows 8.1, Windows 10 | 64 bit only",AMD FX-8350 @ 4.0 GHz | Ryzen 5 - 1400 | Intel Core i7-3770 @ 3.5 GHz or better,8 GB RAM,AMD Radeon R9 285 | NVIDIA GeForce GTX 660 | 2GB VRAM with Shader Model 5.0,46+ GB available space,9e32f311abd24c4aa4c7f9c5dce25e75
+Windows 7+,"AMD Athlon X4 5350, Intel Core i3-2100T or equivalent",4 GB RAM,"GeForce GTX 480M, Radeon HD 6790 or equivalent",200 MB available space,ac5e4e5e2f024e2f9831baac251e0d46
+Windows 7+,"AMD Athlon X4 605e, Intel Celeron G1610 or equivalent",4 GB RAM,"Radeon HD 7850, GeForce GTX 470 or equivalent",200 MB available space,ac5e4e5e2f024e2f9831baac251e0d46
+Windows 7 / 8 / 10 64 bit,"AMD FX-8320 (3,5 GHz) / Intel i5-4690K (3,5 GHz) or better",8 GB RAM,GeForce GTX 660 / Radeon R7 370 with 2 GB VRAM,25 GB ,95e743aa01c6410680916acb796246b5
+Windows 7 / 8 / 10 64 bit,Intel Core i7-3930K (3.2 GHz)/AMD Ryzen 5 1600 (3.2 GHz) or better,16 GB RAM,AMD Radeon RX 480 / NVIDIA GeForce GTX 970 with 4 GB VRAM,25 GB,95e743aa01c6410680916acb796246b5
+Windows 7 64 Bit/ Windows 8 64 Bit/ Windows 10 64 Bit,Intel Core i5-760 / AMD Phenom II X4 965,6 GB RAM,NVidia GTX 580 / AMD Radeon HD 7870,8 GB available space,9651fd57c8a34e81949aab28a084ced7
+Windows Vista (32 Bit),"Intel i3 2nd-Generation 2.5GHz, AMD Quad-Core 2.5GHz",4GB RAM,"Nvidia GT640, AMD Radeon HD7750, 1GB VRAM",13GB,aec117239abd49a08eddc9e75a981fa3
+Windows 10 (64 Bit),"Intel i3 4th-Generation 3.5GHz, AMD Quad-Core 3.9GHz",6GB RAM,"Nvidia GTX 570, AMD Radeon HD 6950, 2GB VRAM",13GB,aec117239abd49a08eddc9e75a981fa3
+Windows 7 (64 Bit),Intel Core i3 @ 3.5GHz or AMD FX-4170,4 GB RAM,Nvidia GeForce GTX 760 or AMD R7 270X (2GB VRAM),15 GB required,32a37ec072474cf4a621d0ce28505f36
+Windows 10 (64 Bit),Intel Core i5 @ 3.5GHz or AMD FX 6 Core,8 GB RAM,Nvidia GeForce GTX 970 or AMD R9 290X (4GB VRAM),15 GB required,32a37ec072474cf4a621d0ce28505f36
+Windows 7,i5,6 Gb,GTX 770,5,d76580cab11b4216bfa1a16ee820d680
+Windows 10,i7,8Gb,GTX 1060,5,d76580cab11b4216bfa1a16ee820d680
+Windows 7+ / 8.1 / 10 (64 bit),Intel i3 Processor (64 bit),6 GB RAM,"ATI 7770, Nvidia GeForce GTX 660 2GB",6 GB available space,b3a7ea2e333a49ab8a7c3d0aa1f31e5e
+Windows 10 (64 bit),Intel i7 Processor (64 bit),16 GB RAM,Nvidia GeForce GTX960+,10 GB available space,b3a7ea2e333a49ab8a7c3d0aa1f31e5e
+Windows 7,Intel i3 2.0 GHz,2 GB RAM,1GB Shader Model 3.0 Compatible (DirectX 9.0c),3 GB available space,ebf5f23b876944f89d140750e756585d
+Windows 8.1 64-bit,Intel i5 2.5 GHz,4 GB RAM,NVIDIA GeForce GTX 460 | Radeon HD 6750 (or higher),3 GB available space,ebf5f23b876944f89d140750e756585d
+"Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions only)",Intel Core i5 2400 @ 3.1 GHz or AMD FX 6350 @ 3.9 GHz,8 GB RAM,NVIDIA GeForce GTX 670 (2GB) or AMD Radeon R9 270X (2GB) or better,30 GB available space,4c77ab0d3f3f4188ac87f0b5d0ea2a91
+"Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions only)",Intel Core i7-4790 @ 3.6 GHz or AMD Ryzen 5 1600 @ 3.2 GHz,8 GB RAM,NVIDIA GeForce GTX 970 (4GB) or AMD Radeon R9 290X (4GB) or better,30 GB available space,4c77ab0d3f3f4188ac87f0b5d0ea2a91
+Windows 7/10 (64 bit only),"Intel Core i5-2400, AMD FX-4100",4 GB,NVIDIA GeForce GTX 650 Ti or AMD Radeon HD 7770,22 GB,cb362a4d9a2d42dda1005021522ca733
+Windows 7/10 (64 bit only),"Intel Core i5 3470, AMD FX 6100",8 GB,NVIDIA GeForce GTX 760 or AMD Radeon R9 270X,22 GB,cb362a4d9a2d42dda1005021522ca733
+"Windows 7, 8, 8.1, 10 x64",Intel Core2 Duo E4500 (2 * 2200) or equivalent,2 GB RAM,GeForce 9600 GT (512 MB),2 GB available space,d3a6b8379b864097b2c92d14ebfab190
+"Windows 7, 8, 8.1, 10 x64", Intel Core i3-2100 (2 * 3100) or equivalent,4 GB RAM,GeForce GTX 550 Ti (1024 MB),2 GB available space,d3a6b8379b864097b2c92d14ebfab190
+Windows 7 (64bit),Intel Core i5-2500K or AMD equivalent,8 GB RAM,NVIDIA GeForce GTX 760 (2048MB) or Radeon HD 7970 (3072MB),15 GB available space,026a40a759d2474e97d57099ef8d6c75
+Windows 10 (64bit),Intel Core i7-3770/AMD FX-8350 ,16 GB RAM,NVIDIA GTX 1060 / AMD Radeon RX 570,15 GB available space,026a40a759d2474e97d57099ef8d6c75
+Windows 7 or later (64-Bit),i5-3570 3.4 GHz 4 Core,8 GB RAM,"Dedicated graphics card, GTX 770 2GB",15 GB Available Space,4f24dc26787d42548cc1fb452d252801
+TBD,TBD,TBD,TBD,TBD,4f24dc26787d42548cc1fb452d252801
+Windows 7/8/10,Intel Core i5-750 or equivalent,4 GB RAM,Nvidia GTS 450 or equivalent,15 GB available space,e2495be2de784cba8355e436b1e185e8
+Windows 7/8/10,Intel Core i5-2400 or equivalent,8 GB RAM,Nvidia GTX 960 or equivalent,15 GB available space,e2495be2de784cba8355e436b1e185e8
+Windows 7,Intel i5 3.2GHz / AMD FX 8350,4 GB RAM,nVidia GTX 750ti / AMD Radeon R7 265,12 GB available space,a31e529d4527419c98a0d36f6ca9ce1d
+Windows 10,Intel i7 3.5GHz / AMD FX 9590,8 GB RAM,GTX970 / AMD Radeon R9 290,12 GB available space,a31e529d4527419c98a0d36f6ca9ce1d
+Windows 7 (64-bit) or Newer. Doesn't support Mac OS,Intel Core i5 (4th gen), 8 GB RAM,NVidia GeForce GTX 760 4GB VRAM,22 GB available space,1a0876c3c1994c50ae6e3231999a0dcf
+Windows 7 (64-bit) or Newer. Doesn't support Mac OS,Intel Core i7 (4th gen),16 GB RAM,NVidia GeForce GTX 970 8GB VRAM,22 GB available space,1a0876c3c1994c50ae6e3231999a0dcf
+Windows 7/8/10 (64 bits),Intel Core i3-2120 (3.3 GHz)/AMD FX-4100 X4 (3.6 GHz),8 GB,"2 GB, GeForce GTX 660/Radeon HD 7870",50 GB,89e949b9176d4f04a5b2e6ca28655b21
+Windows 7/8/10 (64 bits),Intel Core i5-4690 (3.5 GHz)/AMD FX-8300 (3.3 GHz),16 GB,"4 GB, GeForce GTX 970/Radeon RX 480",50 GB,89e949b9176d4f04a5b2e6ca28655b21
+"Windows 7, 8, 8.1, 10 x64",Intel Core i3-3240 (2 * 3400) or equivalent | AMD FX-4300 (4 * 3800) or equivalent,4 GB,GeForce GT 640 (2048 MB) | Radeon HD 7750 (2048 MB),12 GB,112d4a6bbc254c7fb58ca5597e40f093
+"Windows 7, 8, 8.1, 10 x64",Intel Core i5-6600K (4 * 3500) or equivalent | AMD Ryzen 3 2200G (4 * 3500) or equivalent,8 GB,GeForce GTX 960 (4096 MB) | Radeon RX 570 (8192 MB),12 GB,112d4a6bbc254c7fb58ca5597e40f093
+Windows 7,Intel Core i5-2300 | AMD FX-4350,4 GB RAM,"Nvidia GeForce GTX 560 | AMD Radeon HD 7870, 2 GB",8 GB,5a1f3f34df1f4c21850b997aa08da19e
+Windows 10,Intel Core i5-8400 | AMD Ryzen 5 2600X,8 GB RAM,Nvidia GeForce GTX 1060 | AMD Radeon RX 580,8 GB,5a1f3f34df1f4c21850b997aa08da19e
+Windows 7/8.1/10 (64-bit versions),Intel Core i5-2400/AMD FX-8320 or better,8 GB RAM, NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or better ,20 GB available space,abb40344af0f4425a20e1c5e57677e56
+Windows 7/8.1/10 (64-bit versions),Intel Core i5-2400/AMD FX-8320 or better,8 GB RAM,"NVIDIA GeForce GTX 1060, AMD Radeon RX 480 equivalent or better",20 GB available space,abb40344af0f4425a20e1c5e57677e56
+Windows 7,Intel Core i3-2120 | AMD FX-4350,4 GB System RAM & 1 GB Video RAM,Nvidia GTS 450 | AMD Radeon HD 5750,4 GB,4e82628bda3240959b7eed18967186c8
+Windows 10,Intel Core i3-2120 | AMD FX-4350,4 GB System RAM & 2 GB Video RAM,Nvidia GTS 450 | AMD Radeon HD 5750,4 GB,4e82628bda3240959b7eed18967186c8
+Windows 7 or later (64 bit),i5-4430 @ 3.0 GHz or equivalent,4GB RAM,Nvidia GeForce GTX 660 with 2GB or AMD Radeon HD 7870 with 2GB,35GB,b1f5e946cb694968849f5b4331f27db5
+Windows 7 or later (64 bit),i5-6600K @ 3.5GHz or equivalent,8GB RAM,Nvidia GeForce GTX 970 with 4GB or AMD Radeon R9 390 with 4GB,35GB,b1f5e946cb694968849f5b4331f27db5
+Mojave (OSX 10.14.X) or later,Dual Core 2 GHz (64 bit),4 GB RAM,Intel HD Graphics 5000 (AMD or NVIDIA equivalent),6 GB available space,3299949f391a4dbb9e0c4b28b683992c
+Bug Sur (OSX 11.2.X) or later,Dual Core 2 GHz (64 bit),4 GB RAM,Intel HD Graphics 5000 (AMD or NVIDIA equivalent),6 GB available space,3299949f391a4dbb9e0c4b28b683992c
+Windows 7,Intel i5,4GB,Any DX12 graphics card,12GB,54e4974ff09e457ea24de17a37a1eca7
+Windows 10,Intel i7,8GB,Any DX12 graphics card,12GB,54e4974ff09e457ea24de17a37a1eca7
+Windows 7 or later (64 bit),i5-4430 @ 3.0 GHz or AMD Ryzen 5 1600x @ 3.6 GHz,4GB,Nvidia GeForce GTX 660 with 2GB or AMD Radeon HD 7870 with 2GB, 49GB,ca9e038d351d493f91f7823a175c5acf
+Windows 7 or later (64 bit),i5-6600K @ 3.5GHz or equivalent,8GB RAM,Nvidia GeForce GTX 970 with 4GB or AMD Radeon R9 390 with 4GB, 49GB,ca9e038d351d493f91f7823a175c5acf
+Windows 10,Intel i3-4340,4GB RAM,NVIDIA GTX 750 Ti equivalent or greater,5 GB available space,f660ad626f1443a5ba90192e5510062c
+Windows 10,Intel i5-4590 (required for VR),8GB RAM,NVIDIA GTX 970 equivalent (required for VR),5 GB available space,f660ad626f1443a5ba90192e5510062c
+"Windows 7, Windows Vista, Windows 8, Windows 10","Intel® Core™ 2 Duo 2.4 GHz, AMD Athlon™ X2 2.8 GHz, or higher",2GB Ram or higher,"Shader Model 4.0, 1GB VRam",20GB,bc519a47c9b44920828c718e367e20b5
+"Windows 7, Windows Vista, Windows 8, Windows 10","Intel® Core™ 2 Duo 2.4 GHz, AMD Athlon™ X2 2.8 GHz, or higher",2GB Ram or higher,"Shader Model 4.0, 1GB VRam",20GB,bc519a47c9b44920828c718e367e20b5
+"Windows 7,10 X64 DX9c",Intel Pentium4 2.4G,4 GB,GeForce 9500GT/GT610,4 GB,791e1ab4a2664ca0b66331d5b1ec4d89
+"Windows 7,10 X64 DX9c",Intel i5 3.0G,4 GB,GeForce GTX650Ti/GTX950,20GB,791e1ab4a2664ca0b66331d5b1ec4d89
+Windows 7+,"AMD Athlon X4 5350, Intel Core i3-2100T or equivalent",4 GB RAM,"GeForce GTX 480M, Radeon HD 6790 or equivalent",500 MB available space,2a32725d30bc4d87823d3354670376e2
+Windows 7+,"AMD Athlon X4 605e, Intel Celeron G1610 or equivalent",4 GB RAM,"Radeon HD 7850, GeForce GTX 470 or equivalent",500 MB available space,2a32725d30bc4d87823d3354670376e2
+Windows® 7 64bits (Requires a 64-bit processor and operating system),Intel Core i3-2100 or AMD FX-4350,6 GB RAM,Nvidia GeForce GTX 650 2GB or ATI Radeon HD 5870 2GB,19 GB available space,e1cd6be4e19f4248b58048c1f3154a29
+Windows 10 64-bit (Requires a 64-bit processor and operating system),Intel Core i5-6600 or AMD Ryzen 5 1600,8 GB RAM,Nvidia GeForce GTX 1060 3GB or Radeon RX 580 4GB,19 GB available space,e1cd6be4e19f4248b58048c1f3154a29
+Windows 10 (64 Bit),Intel Core i5 @ 3.5GHz or AMD FX 6 Core,8 GB RAM,Nvidia GeForce GTX 970 or AMD R9 290X (4GB VRAM),5 GB Required,d15a9bad13314dd6ac4978e31147c865
+Windows 10 (64 Bit),Intel Core i5 @ 3.5GHz or AMD FX 6 Core,8 GB RAM,Nvidia GeForce GTX 970 or AMD R9 290X (4GB VRAM),5 GB Required,d15a9bad13314dd6ac4978e31147c865
+7 64Bit Service Pack 1,Intel Core 2 Duo 2.8GHz,3 GB RAM,Nvidia GeForce GTS 450 2GB,15 GB available space,7dd66b1bd08e41b1a6bdc3bf472833fa
+7 64Bit Service Pack 1,Intel Core i5-2500K,3 GB RAM,Nvidia GeForce GTX 960,15 GB available space,7dd66b1bd08e41b1a6bdc3bf472833fa
+Windows 7,Intel Core2 Duo 2.4GHz or equivalent,4 GB RAM,Intel HD Graphics 5000 or better,500 MB available space,b467b7d3570e44c0b84e59475f4a5636
+TBD,TBD,TBD,TBD,TBD,b467b7d3570e44c0b84e59475f4a5636
+Windows 7 SP1 64-bit,"Quad-core Intel or AMD processor, 2.5 GHz",4 GB RAM,NVIDIA GeForce GTX 460 or AMD Radeon 6870 HD series card,3 GB available space,265ae8cbed404648b0fddf253ffc44eb
+Windows 10 64-bit,"Quad-core Intel or AMD processor, 2.5 GHz or faster",8 GB RAM,NVIDIA GeForce GTX 770 or AMD R9 280 series card or higher,3 GB available space,265ae8cbed404648b0fddf253ffc44eb
+Windows XP/Vista/7/8/8.1/10,Intel Pentium D 830 (2* 3000) or equivalent / AMD Athlon 64 4000+ (2600) or equivalent,2 GB RAM,GeForce 7600 GS (256 MB) / Radeon HD 2400 PRO (256 MB),666 MB available space,c3291802fde5400aaaabda61acd2d2b4
+"Windows 7,8, 8.1, 10 x 64 (Requires a 64-bit processor and operating system)",Intel Core i3-2100 (2 * 3100) or equivalent / AMD Athlon II X4 645 AM3 (4 * 3100) or equivalent,4 GB RAM,GeForce GTX 550 Ti (1024 MB) or Radeon HD 6850 (1024 MB) or Intel Iris Pro 5200,15 GB available space,12ab853cde4d4f209749ab7ab2070189
+"Windows 7,8, 8.1, 10 x 64 (Requires a 64-bit processor and operating system)",Intel Core i5-6600K (4 * 3500) or equivalent / AMD Ryzen 3 2200G (4 * 3500) or equivalent Memory: 8 GB RAM,8 GB RAM,GeForce GTX 960 (4096 MB) or Radeon R9 285 (2048 MB),15 GB available space,12ab853cde4d4f209749ab7ab2070189
+Windows Vista SP2+,2.66 Ghz Core 2 Duo or Greater,4 GB,GeForce 500+ / Radeon 5000+ or Greater,3 GB,101424838a68468d8da192f3644e61d4
+Windows 8.1+,2.33 GHz Quad Core or Greater,8 GB,GeForce 600+ / Radeon 6000+,3 GB,101424838a68468d8da192f3644e61d4
+Windows 7 SP1,Intel Core i3 2.5GHz, 4GB,Radeon HD 6850 or equivalent,5GB,0a7cd03813b247fcbcb4329b8f56e8ea
+Windows 10,Intel Core i5 3.0 GHz, 8GB,Radeon RX 460 or equivalent,5GB,0a7cd03813b247fcbcb4329b8f56e8ea
+Windows 7/8/10,Intel® Core™ i3-4160 or AMD A8-Series A8-7670K,4GB,Nvidia GTX 660 / AMD Radeon R9 270,6GB,9a078d3bda8a490abbe4a2aa8e9c94ee
+Windows 7/8/10,Intel® Core™ i5-6400 or AMD FX 8320,8GB,Nvidia GTX 780 Ti / AMD Radeon R9 290X,6GB,9a078d3bda8a490abbe4a2aa8e9c94ee
+Sierra 10.12 (Requires a 64-bit processor and operating system),2.0GHz,4 GB RAM,AMD Radeon Pro 460,12 GB available space,daa88a4b17cd4bb8bdb87cdf777ac3f3
+Mojave 10.14 (Requires a 64-bit processor and operating system),2.4GHz,8 GB RAM,AMD Radeon RX 5000 Series,12 GB available space,daa88a4b17cd4bb8bdb87cdf777ac3f3
+"Windows 7, 8, 10",Intel CPU Core i3-2500K 2.0GHz+ / AMD CPU Phenom II 570,4 GB RAM,"GeForce 8800 GTX, GT640, GT730, Radeon HD 5850, HD Graphics 530",3 GB available space,16b8d80102a64760b02276bce4429d3b
+TBD,TBD,TBD,TBD,TBD,16b8d80102a64760b02276bce4429d3b
+64-bit Windows 7/8.1/10,AMD FX-6100/Intel i3-3220 or Equivalent,8 GB RAM,AMD Radeon HD 7750/NVIDIA GeForce GTX 650 or Equivalent,55 GB available space,87042929b63047a49ae06a31f26825e7
+64-bit Windows 7/8.1/10,AMD Ryzen 7 1700/Intel i7-6700K or Equivalent,16 GB RAM,AMD RX Vega 56/ Nvidia GTX 1070 or Equivalent,55 GB available space,87042929b63047a49ae06a31f26825e7
+Windows 7,Intel Core i5-2300 or AMD FX-4350,4 GB RAM,NVIDIA GeForce GTX 550 Ti or ATI Radeon HD 5770,10GB,7f981fff99e44998bf0de031eec36925
+Windows 7,Intel Core i5-3470 or AMD FX-6300,4 GB RAM,NVIDIA GeForce GTX 660 or AMD Radeon HD 7870,10GB,7f981fff99e44998bf0de031eec36925
+Windows 7 Service Pack 1 or newer (64 bit),Intel core i5-4210 1.7ghz,2 GB RAM,Intel HD Graphics 4400,1200 MB available space,a46b0cc96e60477cb4a5a9f024589079
+TBD,TBD,TBD,TBD,TBD,a46b0cc96e60477cb4a5a9f024589079
+"Windows 7×64, Windows 8×64, Windows 10×64 (64-bit OS Required)",Intel Core i5-4460 (3.40 GHz) or better; Quad-core or better,4 GB RAM,NVIDIA GeForce GTX 650 Ti or better (DirectX 11 card & VRAM 2GB Required),100 GB available space,30e0d1b99ced430b825239b395ff140c
+Windows 10 (64-bit OS Required),Intel Core i7-7700 (3.60 GHz),16GB RAM,NVIDIA GeForce GTX 1070,100 GB available space,30e0d1b99ced430b825239b395ff140c
+Windows 7 (64 bit) or Newer,Dual Core 2 GHz,4 GB RAM,Intel HD 4600 (AMD or NVIDIA equivalent),2 GB available space,905a6cdc931e4e64ade4010bac69d64c
+Windows 7 (64 bit) or Newer,Dual Core 2 GHz,4 GB RAM,Intel HD 4600 (AMD or NVIDIA equivalent),2 GB available space,905a6cdc931e4e64ade4010bac69d64c
+Windows XP SP3 or Windows Vista SP2 or Windows 7 SP1 or Windows 8 (both 32/64bit versions),Intel Pentium IV @ 3.0 GHz or AMD Athlon64 3000 + @ 1.8 GHz,2 GB RAM,nVidia GeForce 6800GT or AMD Radeon X1950 Pro (256MB VRAM with Shader Model 3.0 or higher),6 GB available space,e31d7dadcf1c4063b69fd97af1f3c2a9
+Windows XP SP3 or Windows Vista SP2 or Windows 7 SP1 or Windows 8 (both 32/64bit versions),Intel Core 2 Duo E4400 @ 2.0 GHz or AMD Athlon64 X2 3800+@ 2 GHz,2 GB RAM,"nVidia GeForce 9600GT or higher, AMD Radeon HD3850 or higher (512MB VRAM with Shader Model 4.0)",6 GB available space,e31d7dadcf1c4063b69fd97af1f3c2a9
+Windows 7 64Bit Service Pack 1,Core 2 Duo 2.3 Ghz or equivalent,4GB,ATI or NVidia card w/ 1024 MB RAM,2GB,ea40bbb5451649e38472912b11f338b8
+Windows 10 64 bit service pack 1,Core 2 Duo 2.3 Ghz or equivalent,4GB,ATI or NVidia card w/ 1024 MB RAM,2GB,ea40bbb5451649e38472912b11f338b8
+Windows 7 / 8.1 / 10 (64 bit) ,Intel Core i3 4340 3.6 GHz or AMD equivalent,6 GB RAM, 2 GB VRAM; NVIDIA GeForce GTX 670 or AMD Radeon equivalent, 6 GB available space,3e69e975e8264e9799e6e3edd64f8e65
+Windows 7 / 8.1 / 10 (64 bit),Intel Core i7 3770K 3.5 GHz or AMD equivalent,8 GB RAM,6 GB VRAM; NVIDIA GeForce GTX 1060 or AMD Radeon equivalent, 6 GB available space,3e69e975e8264e9799e6e3edd64f8e65
+Microsoft® Windows® 7,1.8 GHz Processor,4 GB RAM,DirectX 10-compatible graphics card with at least 256MB of video memory,8 GB available space,cbbde99547d54f41b8f7bd5fc46726c5
+Microsoft® Windows® 7,3.5 GHz Processor,8 GB RAM,DirectX 10-compatible graphics card with at least 1GB of video memory,8 GB available space,cbbde99547d54f41b8f7bd5fc46726c5
+Windows 8.1 or Windows 10 (64-bit versions),Intel Core i3-7100/AMD Ryzen 3 1200,8GB,NVIDIA GeForce GTX 770/AMD Radeon R9 280X,55GB free space ,bff1d0022b6f4e409daa3663d67edab0
+Windows 10 (64-bit version),Intel Core i7-6700K/AMD Ryzen 7 1700,16GB,NVIDIA GeForce GTX 1070/AMD RX Vega 56,55GB free space SSD,bff1d0022b6f4e409daa3663d67edab0
+Windows 8.1 or Windows 10 (64-bit versions),Intel Core i3-7100/AMD Ryzen 3 1200,8GB,NVIDIA GeForce GTX 770/AMD Radeon R9 280X,55GB free space ,616d8e1ff26b4a65b14794e612da00c4
+Windows 10 (64-bit version),Intel Core i7-6700K/AMD Ryzen 7 1700,16GB,NVIDIA GeForce GTX 1070/AMD RX Vega 56,55GB free space SSD,616d8e1ff26b4a65b14794e612da00c4
+macOS 10.12+,Dual Core 2.4ghz,4 GB of RAM,Intel HD 5000 (Mac computers must support Metal API),15 GB,2ae6edb2223c4f8c97e9839b5b6497bb
+macOS 10.14+,Quad Core 3.0 ghz+,8 GB of RAM,Intel UHD 630+ (Mac computers must support Metal API),20 GB,2ae6edb2223c4f8c97e9839b5b6497bb
+Windows XP,Dual Core CPU 2.4 gHz,2 GB RAM,"Intel HD Graphics 4000, Nvidia GeForce 8000, ATI Radeon HD 4800 Series",2 GB available space,409270ba4b814c20a761407ab7a49dbd
+TBD,TBD,TBD,TBD,TBD,409270ba4b814c20a761407ab7a49dbd
+Windows 7 64Bit Service Pack 1,Intel Core 2 Duo 2.4GHz,3 GB RAM,Nvidia GTS 450+ with 1024MB+ VRAM (excluding GT) - LATEST DRIVERS REQUIRED,30 GB available space,a8953f3d2d55446aa2c8b4509b4b6960
+Windows 10 64 bit service pack 1,Intel Core 2 Duo 2.4GHz,3 GB RAM,Nvidia GTS 450+ with 1024MB+ VRAM (excluding GT) - LATEST DRIVERS REQUIRED,30 GB available space,a8953f3d2d55446aa2c8b4509b4b6960
+Windows 7,i5,6 Gb,GTX 770,5,b1e57a8fa2074f669abfbb294fd8e59e
+Windows 10,i7,8Gb,GTX 1060,5,b1e57a8fa2074f669abfbb294fd8e59e
+"Snow Leopard 10.6.8, 32/64-bit", Intel Core i3 M380, 2 GB RAM,OpenGL 3.0+ (2.1 with ARB extensions acceptable),400 MB available space,14f7d8fdd5a44768b8aad40c6a5ae018
+Windows 7+ (64 bit),Intel Core i5-2500K CPU,4 GB,GTX 970,50 GB,bc5f7e2b085044578a191eb1e2d7f9be
+Windows 10 64-bit / Windows 7 64-bit*,Intel Core i3-6100 (or AMD equivalent),4 GB RAM,Nvidia GT 1030 2GB (or AMD equivalent),50 GB,475691037f00498fa752cd9ecf258b6b
+Windows 7,Dual Core 3.0 GHz,2 GB RAM,DirectX 10 class GPU with 1024MB VRAM,2 GB available space,6a9694e578ee4e598b16a02ef549b629
+Windows 7,2.2 GHz Dual core,2 GB RAM,"Intel HD 2000, NVIDIA GeForce 210, or ATI 4850",700 MB,8b620ab6eaad4c6182d44f07830fd8f6
+Windows 10,2.5+ GHz Quad core,4 GB RAM,"NVIDIA GTX 660 or better, ATI 7950 or better",700 MB,8b620ab6eaad4c6182d44f07830fd8f6
+Windows 8,Intel Core i3-4160 (2 * 3600) or equivalent OR AMD FX-4300 (4 * 3800) or equivalent,4GB,GeForce GTX 660 (2048 MB) OR Radeon HD 7850 (2048 MB),5GB,c6f4afb96f6b456ebc9a522d8fb6b3a0
+Windows 10,Intel Core i7-4771 (4 * 3500) or equivalent OR AMD FX-9370 (8 * 4400) or equivalent,8GB,GeForce GTX 970 (4096 MB) OR Radeon RX Vega 56 (8192 MB),5GB,c6f4afb96f6b456ebc9a522d8fb6b3a0
+Windows 7 SP1+,2.2GHz Dual Core,4 GB RAM," OpenGL 3.3 or DX10 compatible, 2GB+",2 GB available space,a141915f0de3494791151b205a712cda
+TBD,TBD,TBD,TBD,TBD,a141915f0de3494791151b205a712cda
+Windows® XP (SP3) / Windows Vista® (SP2) / Windows® 7 (SP1) / Windows® 8,2.66 GHz Intel® Core™2 Duo E6700 or 3.00 GHz AMD Athlon™ 64 X2 6000+,2 GB,512 MB DirectX® 9.0c–compliant,3 GB HD space,df959d76dda247a893f2c8b6d401dc26
+Windows® XP (SP3) / Windows Vista® (SP2) / Windows® 7 (SP1) / Windows® 8,2.93 GHz Intel® Core™ i3-530 or 3.10 GHz AMD Phenom™ II X2 550 or better,4 GB,1024 MB DirectX 11–complaint or higher,3 GB HD space,df959d76dda247a893f2c8b6d401dc26
+Windows 7 SP1 or Windows 8.1 or Windows 10(64bit versions),Intel Core i5 750 @ 2.6 GHz or AMD Phenom II X4 @ 3.2 GHz,4 GB RAM,nVidia GeForce GTX460 or AMD Radeon HD5870 (1024MB VRAM with Shader Model 5.0),35 GB available space,b14d60867fc34e6687e20f1cb98d6d74
+Windows 7 SP1 or Windows 8.1 or Windows 10 (64bit versions),Intel Core i5 2400s @ 2.5 GHz / AMD FX 6350 @ 3.9 GHz,6 GB RAM,NVIDIA GeForce GTX 660 / AMD Radeon R9 270 (2GB VRAM with Shader Model 5.0),---,e6cd2745c0a3496383e0adc95c7b63b1
+Windows 7 64 bit,"Dual Core Processor, 2.5 GHz or Higher",4 GB RAM,DX11 compatible video card,2 GB available space,dce338d41ea84680a81ad383a1f7f401
+Windows 7 64 bit,"Dual Core Processor, 2.5 GHz or Higher",4 GB RAM,DX11 compatible video card,2 GB available space,dce338d41ea84680a81ad383a1f7f401
+Windows XP or later,x86-compatible 800MHz processor,512MB,"DirectX-compatible 3D graphics with at least 64MB of addressable memory (such as an ATI Radeon 7200, NVIDIA GeForce 2, or Intel GMA 950)",400MB,4019722ac05540b69f172d5182468175
+Windows XP or later,x86-compatible 800MHz processor,512MB,"DirectX-compatible 3D graphics with at least 64MB of addressable memory (such as an ATI Radeon 7200, NVIDIA GeForce 2, or Intel GMA 950)",400MB,4019722ac05540b69f172d5182468175
+Windows 10 / 8.1 / 7,1.8 GHz Intel Core 2 Duo / 2.0 GHz AMD Athlon X2 64,2 GB RAM,Nvidia GeForce 8800 GT / ATI Radeon HD 3870 / Intel HD Graphics 4600,2 GB,4531b00fcf354680bf68d138b7155fda
+Windows 10 / 8.1 / 7,3 GHz Intel Quad-Core Processor / 3.2 GHz AMD Six-Core Processor,4 GB RAM,Nvidia GeForce GTX 460 / AMD Radeon HD 7850,2 GB,4531b00fcf354680bf68d138b7155fda
+Windows® 7 64bits,Intel Core i3-540 or AMD Phenom II X4 940,4 GB RAM,Nvidia GeForce GTX 560 or AMD Radeon HD 6870,12 GB,e3446d29202c46cdb827d35dc1fae75f
+Windows® 7 64bits,Intel Core i5-6600 or AMD Ryzen 5 1600,8 GB RAM,Nvidia GeForce GTX 1060 3 Go or Radeon RX 580 4 Go,12 GB,e3446d29202c46cdb827d35dc1fae75f
+Mac OSX 10.12+,Dual-core 2.5 GHz,4 GB,GeForce 610M or equivalent,500 MB,69d2af5db6994e2db61d70810ce563af
+Windows 8,Intel Core i5 dual-core 2.8GHz or equivalent,4 GB RAM,DirectX 11 compatible graphics card,4 GB available space,4423a534b0ca48b885abcf23a5e27e61
+Windows 10,Intel Core i5 quad-core 3.4GHz or equivalent,8 GB RAM,GeForce GTX 660 (2048 MB) / Radeon HD 7970,4 GB available space,4423a534b0ca48b885abcf23a5e27e61
+Windows 7 SP1+ (or later),Intel or AMD Dual Core at 2 GHz or better, 2 GB RAM,Intel Graphics 4400 or better,400 MB available space,e97596b69a334eb896d3567ffad85093
+Windows 7 SP1+ (or later),Intel or AMD Dual Core at 2 GHz or better, 2 GB RAM,Intel Graphics 4400 or better,400 MB available space,e97596b69a334eb896d3567ffad85093
+Windows 7,2.6 GHz,4 GB RAM,GeForce 700 Series,3 GB available space,e33a567a8ce04ed5abc23d5e46a98087
+Windows 10 64-bit,AMD FX-6300 | Intel i5-2500 @ 2.7GHz,8 GB RAM,NVIDIA GeForce GTX 760 | AMD Radeon HD 7870 ,17 GB,73fbe4d673504c2a80261cf6bfcff20f
+Windows 10 64-bit,AMD FX-8350 | Intel i5-4570 @ 3.2GHz,16 GB RAM,NVIDIA GeForce GTX 1650 4GB | AMD Radeon R9 380,17 GB,73fbe4d673504c2a80261cf6bfcff20f
+"Windows 7, Windows 8.1, Windows 10 (64-bit versions only)",Intel Core 2 Quad Q9550 | AMD Phenom II X4 945 or equivalent, 4 GB RAM,NVIDIA GeForce GTS 450 | AMD Radeon HD 5670 or equivalent,3 GB available space,0067751df1d944fdbde06a883fc4a0e8
+"Windows 7 SP1, Windows 8.1, Windows 10 (64-bit versions only)",Intel Core i3-550 @ 3.0 GHz or AMD Phenom II X4 945 @ 3.0 GHz or equivalent,4 GB RAM,NVIDIA GeForce GTX460v2 or AMD HD7750 (1024 MB VRAM with Shader Model 5.0 or better),2 GB available space,c12806e289d94b1180fde0221c13c70d
+Windows 7 DX11 Support,Intel Core i5,4 GB RAM,Nvidia 660Ti,15 GB available space,e64af2d6202d4b64b86abe428250dbff
+Windows 10,Intel Core i7,8 GB RAM,Nvidia GTX 970,15 GB available space,e64af2d6202d4b64b86abe428250dbff
+Windows Vista® (SP2) x64 / Windows 7 (SP1) x64 / Windows 8 x64 (x64 bit versions only),2.66 GHz Intel® Core2 Quad Q8400 or 3.0 GHz AMD Phenom™ II X4 940 ,6 GB RAM,1024 VRAM DirectX 11 with Shader Model 5.0 or higher,25 GB available space,88be15452fea4ebf9e211deb291e8189
+Windows Vista (SP2) x64 / Windows 7 (SP1) x64 / Windows® 8 x64 (x64 bit versions only),3.5 GHz Intel Core i7-3770 or 4.0 GHz AMD FX-8350 or better,8 GB RAM or greater,2048 VRAM DirectX 11 with Shader Model 5.0 or higher ,25 GB available space,88be15452fea4ebf9e211deb291e8189
+Windows 7 64-bit or newer,Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz,4 GB,Nvidia GeForce 8800 GT,30 GB,6005be154ca94b978757989243a9ec73
+Windows 8/10 64-bit (latest Service Pack),"Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz",6 GB,Nvidia GeForce GTX 660 or ATI Radeon HD 7950,30 GB,6005be154ca94b978757989243a9ec73
+Windows 7 SP1 or Windows 8/8.1 (64bit versions only),Intel Core2Quad Q6600 @ 2.4 GHz or AMD Athlon II X4 620 @ 2.6 GHzH,2 GB RAM,nVidia GeForce GTS450 or AMD Radeon HD5670 (1024MB VRAM) or Intel HD4600,12 GB available space,fd2df056f60e4ca8a59ca5c5f0ff3395
+Windows 7 SP1 or Windows 8/8.1 (64bit versions only),Intel Core i5 2400s @ 2.5 GHz or better / AMD FX-6100 @ 3.3 GHz or better,2 GB RAM,nVidia GeForce GTX 560Ti (1024 VRAM) or better / AMD Radeon HD 6870 (1024 VRAM) or better,12 GB available space,fd2df056f60e4ca8a59ca5c5f0ff3395
+Windows XP,Dual Core,2 GB RAM,"GeForce 7600 GT (256 MB), Intel HD Graphics 4400 (Shared), Radeon X1600 XT (256 MB)",500 MB available space,84f8d79ca9d84057ba4406d215cb6ad5
+Windows XP/Vista/7/8/8.1/10 64-bit,"Intel Core2 Duo E4500 (2 * 2200) or equivalent, AMD Athlon 64 X2 4200+ (2 * 2200) or equivalent",2 GB RAM,"GeForce 7600 GT (256 MB), Intel HD Graphics 4400 (Shared), Radeon X1600 XT (256 MB)",500 MB available space,84f8d79ca9d84057ba4406d215cb6ad5
+Windows 7,"Intel Core i5 4670T @2.3 GHz, AMD FX 8370E @3.3 GHz",8 GB RAM,"Nvidia Geforce GTX 480, Nvidia GeForce GTX 580M, AMD Radeon R7-265 or equivalent",3 GB available space,addd4e86c4d746ab86f21606bdadce7d
+Windows 10,"Intel Core i5 2500 @3.3 GHz, AMD FX 6120 @3.6 GHz",8 GB RAM,"Nvidia Geforce GTX 650 Ti, Nvidia GeForce GT 750M, Radeon HD5850 or equivalent",3 GB available space,addd4e86c4d746ab86f21606bdadce7d
+OS X 10.6 or newer,Quad Core Intel Core i7,4 GB RAM,Geforce GT 650m or equivalent,3 GB available space,9aa227e2ba294bb1a95c95fde892eb31
+OS X 10.6 or newer,Quad Core Intel Core i7,8 GB RAM,Radeon Pro 560X,3 GB available space,9aa227e2ba294bb1a95c95fde892eb31
+WINDOWS VISTA SP2/WINDOWS 7/WINDOWS 8,AMD/INTEL DUAL-CORE 2.4 GHZ,2048 MB RAM,256 MB 100% DIRECTX 9 COMPATIBLE AMD RADEON HD 3850/NVIDIA GEFORCE 8600 GTS OR HIGHER,14 GB available space,afadb715390a4593acdca79dae94b60a
+WINDOWS 7,Intel Core 2 Quad Q6600 2.4GHz / AMD APU A6-3600 Quad-Core,6 GB RAM,AMD Radeon HD 5830 or NVIDIA GeForce GTX 460,14 GB available space,afadb715390a4593acdca79dae94b60a
+Windows 7 32-bit,1.8GHz,2GB,512MB Video RAM,2GB,56b3f851cc664490a9911040da23a611
+Windows 8/10 64-bit,3.2 GHz Dual Core Processor,4 GB RAM," GeForce GTX 660, Radeon R7 370 or equivalent with 2 GB of video RAM ",8 GB available space,a541f0935a3340c5b05a3742e0888d18
+Windows 8/10 64-bit,3.2 GHz Quad Core Processor,8 GB RAM,"GeForce 970, Radeon RX 580 or equivalent with 4GB of video RAM ",8 GB available space,a541f0935a3340c5b05a3742e0888d18
+Windows 10 (64-bit versions only),Intel Core i5-2400 @ 3.1 GHz | AMD FX-6300 @ 3.5 GHz or better,8 GB RAM,NVIDIA GeForce GTX 760 (2GB VRAM or better) | AMD R9 270 (2GB VRAM or better),59 GB available space,f6db79620fd849a685f8b463d3a8bf2d
+Windows 10 (64-bit versions only),Intel Core i7-4770 @ 3.4 GHz | AMD Ryzen 5 1600 @ 3.2 GHz or equivalent,16 GB RAM,NVIDIA GeForce GTX 1070 (6GB VRAM or better) | AMD Vega 56 (6GB VRAM or better),59 GB available space,f6db79620fd849a685f8b463d3a8bf2d
+Windows 7/8/8.1/10 x64,Intel Core2 Duo E4300 (2 * 1800) / AMD Athlon Dual Core 4450e (2 * 2300) or equivalent,4096 MB RAM,GeForce 8800 GTX (768 MB) / Intel HD 4600 / Radeon HD 3850 (512 MB),3GB,7ad72dc39d624bbd912c195daad10d00
+Windows 7/8/8.1/10 x64,Intel Core i5-4570T (2* 2900) / AMD FX-6100 (6 * 3300) or equivalent,4096 MB RAM,GeForce GTX 750 Ti (2048 MB) / Radeon HD 7850 (2048 MB),3GB,7ad72dc39d624bbd912c195daad10d00
+Windows 7 64-bit or newer,Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz,4 GB,Nvidia GeForce 8800 GT,30 GB,f57f2cf4b6aa49be84688e4ea571ccbe
+Windows 8/10 64-bit (latest Service Pack),"Intel Core i5 or AMD Phenom II X3, 2.8 GHz",6 GB,Nvidia GeForce GTX 660 or ATI Radeon HD 7950,30 GB,f57f2cf4b6aa49be84688e4ea571ccbe
+Windows 7/8/10 (64-bit),Intel i3-4130 3.4 GHz / AMD Ryzen 3 2200U 3.4 GHz,8 GB,"2 GB, GeForce GTX 660 / Radeon R9 270",20 GB,5014d355b4684d80a095a570219c3443
+Windows 7/8/10 (64-bit),Intel i7-8700 3.2 GHz / AMD Ryzen 7 2700 3.2 GHz,16 GB,"4 GB, GeForce GTX 970 / Radeon RX 580",20 GB,5014d355b4684d80a095a570219c3443
+Win7,Intel Core i5-2500K or AMD equivalent,4GB,Intel HD 4400 or Nvidia and AMD equivalent,2.5GB,4dc13c6a34d04d249fd84fdf811f266f
+"Windows 7, 8/8.1, 10",2.0 Ghz,2.5 GB RAM,128mb Video Memory,500 MB available space,2c38503c83df4fd4ae7cd9c3a8a50ce8
+"Windows 7, 8/8.1, 10",2.0 Ghz,2.5 GB RAM,128mb Video Memory,500 MB available space,2c38503c83df4fd4ae7cd9c3a8a50ce8
+High Sierra 10.13,"Intel i5, 6th gen, 2.7GHz or similar",8 GB,"METAL capable GPUs, 2GB VRAM",10 GB,51a30dc6b394462aaa49bd7e3321a2e3
+Mojave 10.14+,"Intel i5, 8th gen, 3GHz or similar",16 GB,"METAL capable GPUs, 4GB VRAM",14 GB,51a30dc6b394462aaa49bd7e3321a2e3
+OSX 10.12 Sierra, Intel Core i5 @2.7Ghz,2 GB RAM,"Nvidia GT 640M, AMD Radeon HD 5750, Intel HD Graphics 6100",2 GB available space,3dfcf2349c0e4fad8e5c6b33786c407e
+OSX 10.14 Mojave,Intel Core i5 @3.3Ghz,4 GB RAM,"Nvidia GTX 675MX, AMD Radeon R9 M290",2 GB available space,3dfcf2349c0e4fad8e5c6b33786c407e
+"64-bit Windows 7, 64-bit Windows 8 (8.1) or 64-bit Windows 10",Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940,6 GB,Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870,77GB,9064fdd49de04718abe631788ad5a759
+"64-bit Windows 7, 64-bit Windows 8 (8.1) or 64-bit Windows 10",Intel CPU Core i7 3770 3.4 GHz / AMD CPU AMD FX-8350 4 GHz,8 GB,Nvidia GPU GeForce GTX 770 / AMD GPU Radeon R9 290,77GB,9064fdd49de04718abe631788ad5a759
+64bit: Win7 / Win8.1 / Win10,Intel Core i3 2.5 GHz or AMD Phenom II 2.6,4GB,"1GB DirectX 11 Video Card (AMD 5570, NVIDIA 450 or Intel Integrated Graphics 530",12 GB,fe74b3dad04846e5a58f62aebd3858b6
+64bit: Win7 / Win8.1 / Win10,Fourth generation Intel Core i5 2.5 GHz or AMD FX8350 4.0 GHz or greater,8GB,2GB DirectX 11 Video Card (AMD 7970 or NVIDIA 770 or greater),12 GB,fe74b3dad04846e5a58f62aebd3858b6
+Windows 10,Intel Core i5-5300u,8 GB RAM,Intel HD 5500,20 GB of space,cf0f9c305d5d4dc9bd0fc4c14b5f2c5d
+Windows 10,Intel Core i7-3770 / AMD Ryzen 5 1500X or Higher,8 GB RAM,Nvidia GeForce GTX 970 / AMD Radeon R9 390 or Higher,20 GB of space,cf0f9c305d5d4dc9bd0fc4c14b5f2c5d
+Windows 7/8.1/10 x64, Intel Core 2 Duo E6320 (2*1866) or equivalent,2 GB RAM,GeForce 7600 GS (512 MB) or equivalent,1 GB available space,13f7f3e05e91444585e9be24b59fe536
+Windows 7/8.1/10 x64, Intel Core i3-2100 (2 * 3100) or equivalent or AMD Phenom II X4 965 (4 * 3400) or equivalent,4 GB RAM, GeForce GTX 660 (2048 MB),1 GB available space,13f7f3e05e91444585e9be24b59fe536
+Windows 7,Intel Core 2 Duo or equivalent,2 GB,DirectX 11 compatible video card (integrated or dedicated with min 512MB memory),20 GB,1112adb4b6af47238cbc563ae2b1c6ab
+Windows 10,Intel Core i7 or equivalent,8 GB,NVIDIA Geforce 1060 or equivalent,20 GB,1112adb4b6af47238cbc563ae2b1c6ab
+MacOS 10.9 Mavericks,2.0 Ghz DualCore CPU,8GB,"Intel HD4000 or better, OpenGL 3.3",2GB,8c02538c55314c22b0e2216502bdac20
+MacOS 10.13 High Sierra,2.0+ Ghz QuadCore CPU,8GB,"NVIDIA Geforce 660 or AMD Radeon HD 7000 Series, OpenGL 3.3",2GB,8c02538c55314c22b0e2216502bdac20
+Windows 7,Intel Core i5,8 GB,Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB,35 GB,2aa893533da449c7b146c72880a414b3
+Windows 10,Intel Core i7,16 GB,Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB,35 GB,2aa893533da449c7b146c72880a414b3
+Windows 10 (64-bit Required),Intel i5 @ 2.5GHz or AMD equivalent,8 GB,"ATI Radeon RX 560 2GB, Nvidia GeForce GTX 900",10 GB,b3678744f16842debd1f2d57fbe12e9c
+"Windows 8.1, Windows 10 (64-bit versions only)", Intel Core i5-2400 or AMD FX-6300 or equivalent,8 GB RAM,NVIDIA GeForce GTX 670 or AMD R9 270,20 GB available space,10304ec5c7cc412abaf21748c41ed6e4
+"Windows 8.1, Windows 10 (64-bit versions only)",Intel Core i7-4770 or AMD Ryzen 5 1600 or equivalent,8 GB RAM,NVIDIA GeForce GTX 970 or AMD R9 290X,20 GB available space,10304ec5c7cc412abaf21748c41ed6e4
+Windows 7 (Requires a 64-bit processor and operating system),AMD / Intel CPU running at 3.0 GHz or higher: AMD Kaveri A10-7850K or Intel Pentium DualCore G3220 or newer is recommended / Ryzen 5 2400G (for systems using an integrated GPU),8 GB RAM,"AMD/NVIDIA dedicated graphics card, with at least 4GB of dedicated VRAM and with at least DirectX 11.0 and Shader Model 5.1 support",19 GB available space,6271c537ea264bc2adcdf9c200cf6aa7
+Windows 10 (Requires a 64-bit processor and operating system),IAMD / Intel processor running at 3.5 GHz or higher (AMD Ryzen 3 1300x or Intel Core i3 8100 or newer is recommended),16 GB RAM,"AMD/NVIDIA dedicated graphics card, with at least 4GB of dedicated VRAM and with at least DirectX 12.0 and Shader Model 6.0 support",19 GB available space,6271c537ea264bc2adcdf9c200cf6aa7
+Windows 7 (64-bit only),Intel® Core™ i3-8100 / AMD Ryzen™ 3 1200,6 GB RAM,Intel® UHD Graphics 630 / NVIDIA® GeForce® GTX 660 2GB / AMD Radeon™ HD 7850 2GB,60 GB available space,1dcce12230b64066a988c06cdd5f653e
+Windows 10 (64-bit only),Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X,8 GB RAM,NVIDIA® GeForce® GTX 1060 3GB / AMD Radeon™ RX 580,60 GB available space,1dcce12230b64066a988c06cdd5f653e
+Windows 10 (Requires a 64-bit processor and operating system),AMD / Intel CPU running at 2.8 GHz or higher (AMD Phenom II X4 925 or Intel i3-4130 or newer are recommended), 4 GB RAM," AMD/NVIDIA graphic card, with at least 2GB of dedicated VRAM and with at least DirectX 11 and Shader Model 5.1 support: AMD Radeon HD 7870 or NVIDIA GeForce GTX 760 or newer is recommended", 8 GB available space,764efdf6ab3e4b50856ace9afd3dcc6e
+Windows 10 (Requires a 64-bit processor and operating system),AMD / Intel processor running at 3.5 GHz or higher (AMD FX-6300 series or Intel Core i3-8100 or newer is recommended), 8 GB RAM,"AMD/NVIDIA dedicated graphic card, with at least 4GB of dedicated VRAM (or more) and with at least DirectX 11 and Shader Model 5.1 support: NVIDIA GeForce GTX 1050 Ti or AMD Radeon R9", 8 GB available space,764efdf6ab3e4b50856ace9afd3dcc6e
+"Win 7, 8, 10, 64bit",3 GHz Dual Core CPU,4 GB RAM,"GeForce GTX 560, AMD HD 6870",3 GB,ddbac5b8afd64e36a63d6904e0ef7e41
+"Win 7, 8, 10, 64bit",3GHz Quad Core CPU,4 GB RAM,"GeForce GTX 660TI, AMD HD 7800 series",3 GB,ddbac5b8afd64e36a63d6904e0ef7e41
+Windows® 7,"Intel Core i3-3220 @ 3.3 Ghz | AMD FX-4130 @ 3.9 Ghz, or better",4 GB RAM," NVIDIA GeForce GTX 660 with 2 GB VRAM | AMD Radeon R7 265 with 2 GB VRAM, or better",12.7 GB,46b393b6aed04d7e962a33f2d752a3bd
+Windows® 7,"Intel Core i3-3220 @ 3.3 Ghz | AMD FX-4130 @ 3.9 Ghz, or better",4 GB RAM," NVIDIA GeForce GTX 660 with 2 GB VRAM | AMD Radeon R7 265 with 2 GB VRAM, or better",7.22 GB,d98e4e1bcca8487daba595cc792e2b85
+Windows 7/8.1/10 (64 bit only),"Intel Core i5-2500k, AMD FX-6100",8GB,NVIDIA GeForce GTX 660 or AMD Radeon R9 270X,2GB available hard drive space,6e02cab6e82243858462ba7f93c82e9d
+Windows 10 (64 bit only),"Intel Core i5-4690K, AMD Ryzen5 1500X",8GB (Dual-channel setup),NVIDIA GeForce GTX 970 or AMD Radeon RX 480,2GB available hard drive space,6e02cab6e82243858462ba7f93c82e9d
+Windows XP SP3/Vista with SP2/7/8/8.1/10 x86 or x64,Intel Core2 Duo E4300 (2 * 1800) or equivalent | AMD Athlon 64 X2 5000+ (2 * 2600) or equivalent,2048MB,GeForce GT 610 (1024 MB) or equivalent | Radeon HD 6450 (512 MB) or equivalent,400MB,d4497261293046f58c0a429a11a7d852
+Windows XP SP3/Vista with SP2/7/8/8.1/10 x86 or x64,Intel Core 2 Duo E7300 (2 * 2660) or equivalent | AMD Athlon 64 X2 6000+ (2 * 3000) or equivalent,4096MB,GeForce GTX 560 Ti (1024 MB) or equivalent | Radeon HD 2900 XT (1024 MB) or equivalent,400MB,d4497261293046f58c0a429a11a7d852
+"Win7 64-bit, Win8/8.1 64-bit",Core 2 Duo E8200 2.66GHz or Phenom II X2 545,3 GB RAM,GeForce GTS 250 or Radeon HD 4830,60 GB available space,85f5ff10c31c4cd99978f4d57d3ec97a
+Windows 10 64-bit,Core 2 Quad Q9550 2.83GHz or Phenom II X4 955,4 GB RAM,GeForce GTX 560 or Radeon HD 6950,100 GB available space,85f5ff10c31c4cd99978f4d57d3ec97a
+Windows XP,Core 2 Duo or AMD Equivalent,1500 MB RAM,NVIDIA GeForce GT 430 or ATI equivalent,900 MB available space,8891a362aacf45e68b618eced3b4ba00
+Windows 7,Intel Core i3 or faster,3000 MB RAM,NVIDIA Geforce GT 640 or faster,900 MB available space,8891a362aacf45e68b618eced3b4ba00
+Windows 7/8.1/10 (32-bit versions),Intel Core Duo E6600 @ 2.4GHz,2GB,"Intel 4400, GeForce GT 8800, AMD Radeon HD 4650",4GB,70c286b7eb704c9eaa59e66571447092
+Windows 7/8.1/10 (64-bit versions),"i5-2500k@3.3GHz, AMD FX 6300 3.5GHz",4GB,"GeForce GTX 750, AMD R7 370",4GB,70c286b7eb704c9eaa59e66571447092
+"64-bit Windows 7, Windows 8, Windows 10",Intel Core i3-2100T @ 2.5GHz or AMD FX-4100 @3.6 GHz,4 GB RAM,"Nvidia Geforce GTX 650, AMD Radeon HD 7770 graphics card or better (min. 2 GB VRAM, DX11 support)",20 GB free hard drive space,e48a48c96c594e30a9872d051b3b5d8b
+Windows 7 64bit,Intel Core i5 3rd Generation,8 GB,NVIDIA GeForce GTX 750 Ti/ AMD Radeon HD 7750,10 GB of free space,a23c6b7934d2436b8e27860d805ec26a
+Windows 10 64bit,Intel Core i7 7th Generation,16 GB,NVIDIA GeForce GTX 1080,10 GB of free space,a23c6b7934d2436b8e27860d805ec26a
+"Windows 7, Windows 10",Intel Core i3 (3.4 GHz) or AMD A8-7600 (3.1 GHz),8 GB RAM,AMD Radeon HD 6850 / NVIDIA GeForce 650 / Intel Iris Pro 5200,5 GB available space,bc24fd6c82354ae18279e18effaa640e
+"Windows 7, Windows 10",Intel Core i3 (3.4 GHz) or AMD A8-7600 (3.1 GHz),8 GB RAM,AMD Radeon HD 6850 / NVIDIA GeForce 650 / Intel Iris Pro 5200,5 GB available space,bc24fd6c82354ae18279e18effaa640e
+OS 10.14,1.6ghz processor,4 GB RAM,Onboard or dedicated graphics accelerator with 2GB+ of video RAM,11 GB,32052e4882be420e8b009f05483f1f23
+Windows 10 (Requires a 64-bit processor and operating system),AMD / Intel CPU running at 3.0 GHz or higher: AMD Kaveri A10-7850K or Intel Pentium DualCore G3220 or newer is recommended / Ryzen 5 2400G (for systems using an integrated GPU),8 GB RAM,"AMD/NVIDIA dedicated graphics card, with at least 4GB of dedicated VRAM and with at least DirectX 11.0 and Shader Model 5.1 support",19 GB available space,b97a6ef46c4f4eaaa2dc324693df0765
+Windows 10 (Requires a 64-bit processor and operating system),IAMD / Intel processor running at 3.5 GHz or higher (AMD Ryzen 3 1300x or Intel Core i3 8100 or newer is recommended),16 GB RAM,"AMD/NVIDIA dedicated graphics card, with at least 4GB of dedicated VRAM and with at least DirectX 12.0 and Shader Model 6.0 support",19 GB available space,b97a6ef46c4f4eaaa2dc324693df0765
+10.5.5 (64-bit),Intel i3 3.0 ghz,4GB,Intel Integrated Graphics,300MB,3fb9665744a5404d95de612ddc445f35
+Windows 7,Toaster processor or better (2009+),1024 MB RAM,Any card made during or after 2009,2 GB,14f073a7a4204943b830717c32e2c710
+"Windows 7, maybe even higher than 7",Two toaster processors or better (2011+),1024 MB RAM,Any card made in the last five years,2 GB,14f073a7a4204943b830717c32e2c710
+Microsoft® Windows® XP / Vista / 7,AMD Athlon 64 2800+ @ 1.8 Ghz and Intel Pentium IV @ 2.8 Ghz,1 GB RAM,Graphics Card with 128 MB of RAM,500 MB HD space,a8b9cb3f7f0143bc9366ec7695f7876c
+Microsoft® Windows® 10,AMD Athlon 64 2800+ @ 1.8 Ghz and Intel Pentium IV @ 2.8 Ghz,2 GB RAM,Graphics Card with 256 MB of RAM,1 GB HD space,a8b9cb3f7f0143bc9366ec7695f7876c
+Windows 7,"4 threads, 2.5+ Ghz",4 GB,GeForce GTX 760,6GB,2e4e9ce2c17649018d45692284dfd890
+Windows 10,"4 cores, 3+ Ghz",6 GB,GeForce GTX 1050,6GB,2e4e9ce2c17649018d45692284dfd890
+Windows Vista or 7,Core 2 Duo,2 GB RAM,SM3 512MB VRAM,4 GB available space,c51628e14ff54e45a2aef41806e834cb
+Windows 8 or 10 64 bit,Core i5,4 GB RAM,SM4 1GB VRAM,4 GB available space,c51628e14ff54e45a2aef41806e834cb
+Windows 7+,"AMD Athlon 64 X2 Dual Core 6400+, 3.2GHz, Intel Core2 Duo E8400, 3.0GHz",1GB,"9800 GTX, Radeon HD 5850",100MB,b5dba5ebbdf84ecaad0edf4f5e026247
+Windows 7/8/10 [64-bit],3.0 GHz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 660 or AMD Radeon HD 7870 with 2GB VRAM,1GB,eb38399025864ffb88a7e027d02502a8
+Windows 7/8/10 [64-bit],3.5 Ghz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 960 or AMD Radeon HD 7990 with 4GB VRAM,1GB,eb38399025864ffb88a7e027d02502a8
+Windows 10 64-bits,Intel Core i5-2500K@3.3GHz/AMD FX 6300@3.5GHz,8GB RAM,Nvidia GeForce GTX 780 (3 GB)/AMD Radeon R9 290 (4GB),50~100GB,5ce7e46378254948a5eb921ca32cf569
+Windows 10 64-bits,Intel Core i7-4770K@3.5GHz/Ryzen 5 1500X@3.5GHz,16GB RAM,Nvidia GeForce GTX 1060 (6 GB)/AMD Radeon RX 580 (8GB) ,50~100GB,5ce7e46378254948a5eb921ca32cf569
+Windows 7/8.1/10 64 Bit,Intel Core 2 Duo 3.0 GHz/Intel i7 8550U 1.80GHz,4 GB/6 GB (It is 4 for dedicated GPU and 6 for integrated one),Nvidia GTX 460 1GB/AMD Radeon HD 5770 1 GB/Intel UHD Graphics 620,26 GB,4fc245c9e77a4560a31e0dc77e89d716
+Windows 7/8.1/10 64 Bit,Intel i5-6600 / Ryzen 5 2600X,8 GB,Nvidia GTX 970 / AMD Radeon R9 270X 2 GB,26 GB,4fc245c9e77a4560a31e0dc77e89d716
+Windows 7 (64 bit),Dual Core 2.4Ghz,4 GB RAM,GeForce 880 GT / AMD HD 6850 / Intel HD Graphics 520 or above,400 MB Available Space,754412e3df444c0c84653ea7aa047fe6
+Windows 7 (64 bit),Dual Core 2.4Ghz,4 GB RAM,GeForce 880 GT / AMD HD 6850 / Intel HD Graphics 520 or above,400 MB Available Space,754412e3df444c0c84653ea7aa047fe6
+Windows 7/8/10 [64-bit],3.0 GHz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 660 or AMD Radeon HD 7870 with 2GB VRAM,1GB,f2046150a9d24931a83bdb64ecc08f14
+Windows 7/8/10 [64-bit],3.5 GHz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 960 or AMD Radeon HD 7990 with 4GB VRAM,1GB,f2046150a9d24931a83bdb64ecc08f14
+Windows 7,2.4 GHz Dual Core,4 GB RAM,GTX 760 or Equivalent,2 GB available space,061c756f526f429694c30188a0a99482
+Windows 10,2.4 GHz Quad Core,8 GB RAM,GTX 1060 or Equivalent,2 GB available space,061c756f526f429694c30188a0a99482
+Microsoft® Windows® 7 (64-bit),1.8 GHz Processor,4 GB RAM,DirectX 10-compatible graphics card with at least 256MB of video memory,7 GB available space,55196df9a34f4bb0a6c4cf28315dafa0
+Microsoft® Windows® 10 (64-bit),2.4 GHz Processor,8 GB RAM,DirectX 10-compatible graphics card with at least 256MB of video memory,9 GB available space,55196df9a34f4bb0a6c4cf28315dafa0
+Windows 7 SP1+,2.0 Ghz,4 GB,Graphics card with DX10 (shader model 4.0) capabilities,5 GB available space,e343cee48e8e4cca80b0ae3d228342aa
+Windows 10,3.0 Ghz,8 GB,Graphics card with DX10 (shader model 4.0) capabilities,5 GB available space,e343cee48e8e4cca80b0ae3d228342aa
+Windows 7/8/10 [64-bit],3.0 GHz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 660 or AMD Radeon HD 7870 with 2GB VRAM,1GB,4537d64c0c5748ae901163cfb53573eb
+Windows 7/8/10 [64-bit],3.5 GHz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 960 or AMD Radeon HD 7990 with 4GB VRAM,1GB,4537d64c0c5748ae901163cfb53573eb
+Windows 7 / 8.1 / 10 (64 bit),"Intel Core i5 2,3 GHz or AMD equivalent",4 GB RAM,NVIDIA GeForce 560 GTX 2 GB,9 GB available space,8f6f05aa00fd48cca99d897b593b3e8b
+Windows 10 (64 bit),"Intel Core i7 3,0 GHz or AMD equivalent",8 GB RAM,NVIDIA GeForce GTX 970 4 GB,9 GB available space,8f6f05aa00fd48cca99d897b593b3e8b
+Windows 7,Intel Core i5 3550 @ 3.3 GHz or AMD FX-6300,8 GB RAM,AMD Radeon R7 370 or NVIDIA GeForce GTX 660/570,7 GB,3f33b68db9ac412597707ab5276965fa
+Windows 10,Intel Core i5 4570 @ 3.2 GHz or AMD FX - 8350,16 GB RAM,AMD Radeon R9 290X or NVIDIA GeForce GTX 780,7 GB,3f33b68db9ac412597707ab5276965fa
+Windows 7 64-bit,Core i3 / Athlon 64 X2 6400,4 GB RAM,NVIDIA GeForce GTX 560 / ATI Radeon HD 5770,12 GB available space,8f338b5867d84354bf01550081b4bb2b
+Win 7 64bit / Win 8.1 64-bit / Windows 10,Core i7 / A8-3870K or above,8 GB RAM,NVIDIA GeForce GTX 970 / ATI Radeon R9 280 or above,12 GB available space,8f338b5867d84354bf01550081b4bb2b
+Windows 7,Intel i5-3570 or AMD FX-8350,6GB RAM ,NVIDIA GeForce GTX 680 2GB / AMD Radeon™ HD 7970,25GB,097a407e8d1f4ab3af6026928a794b8d
+Windows 10 (with latest service pack),Intel i7-4770 or AMD Ryzen™ 5 2600,16GB RAM,NVIDIA GeForce GTX 1060 6GB / AMD Radeon™ RX 590,25GB,097a407e8d1f4ab3af6026928a794b8d
+Windows 7/8/10 64-bit,Intel Core 2 Quad Q6600,4 GB Ram,NVIDIA Geforce GTX 660 / Radeon HD7870,3 GB HDD Space,f88100d74fd04a518d9cbc89028c6fa9
+Windows 7/8/10 64-bit,Intel Core i5-6600k,8 GB Ram,NVIDIA Geforce GTX 980 / Radeon 5300,3 GB HDD Space,f88100d74fd04a518d9cbc89028c6fa9
+Windows 10 (64Bit),Intel Core i5 1.8Ghz,4GB RAM,NVIDIA GTX 480/AMD Radeon 7870,2GB,234c5a3fd58b4cd5ae307a156ef789e3
+Windows 10 (64Bit),Intel Core i5 2.8 Ghz,8GB RAM,NVIDIA GTX 1660/AMD RX 5600 XT,2GB,234c5a3fd58b4cd5ae307a156ef789e3
+Windows 10,AMD Ryzen 3 2200G,2 GB RAM,NVIDIA GTX 650,1 GB available space,4fff670a2c5d49e995c1b2775de02fdb
+Windows 10,AMD Ryzen 7 2700X,8 GB RAM,NVIDIA GTX 980,2 GB available space,4fff670a2c5d49e995c1b2775de02fdb
+Windows 7/8/10 [64-bit],3.0 GHz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 660 or AMD Radeon HD 7870 with 2GB VRAM,1GB,00ae234a8e4a4a80b6b3c124ae738372
+Windows 7/8/10 [64-bit],3.5 Ghz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 960 or AMD Radeon HD 7990 with 4GB VRAM,1GB,00ae234a8e4a4a80b6b3c124ae738372
+Windows XP SP3/Vista/Windows 7,x86-compatible 1.4GHz or faster processor,2 GB RAM,DirectX compatible 3D graphics card with at least 256MB of addressable memory,2 GB HD space,8c67bf879a9f48f689ab0c86df4f67a6
+Windows XP SP3/Vista/Windows 7,x86-compatible 2GHz or faster processor,4 GB RAM,DirectX compatible 3D graphics card with 512MB of addressable memory,2 GB HD space,8c67bf879a9f48f689ab0c86df4f67a6
+ Windows XP SP3/Vista/Windows 7,x86-compatible 1.4GHz or faster processor, 2 GB RAM,DirectX compatible 3D graphics card with at least 256MB of addressable memory, 2 GB available space,71489603554f452f9d71e93627115939
+ Windows XP SP3/Vista/Windows 7,x86-compatible 2GHz or faster processor,4 GB RAM,DirectX compatible 3D graphics card with 512MB of addressable memory, 2 GB available space,71489603554f452f9d71e93627115939
+Windows XP SP3/Vista/Windows 7 & 8,x86-compatible 1.8GHz or faster processor,2 GB RAM,DirectX compatible 3D graphics card with at least 256MB of addressable memory,10 GB available space,80260982798c4573a4241e50229e81b1
+Windows XP SP3/Vista/Windows 7 & 8,x86-compatible 2GHz or faster processor,4 GB RAM, DirectX compatible 3D graphics card with 512MB of addressable memory,10 GB available space,80260982798c4573a4241e50229e81b1
+Windows 7 / 8 / 10,Intel Core i3-3225 3.3 GHz,4 GB RAM,GeForce GTX 460,10 GB Hard Drive,040d6aecf9cd4199abba059d5acfd600
+Windows 10 64 bit,Intel Core i5 - 4670,8 GB RAM,GTX 770,10 GB Hard Drive,040d6aecf9cd4199abba059d5acfd600
+Windows 10/7/8/8.1/Vista (64 bit),2.4ghz Intel Core 2 Duo or equivalent,4 GB RAM,"Intel HD Graphics 4600, NVIDIA GeForce GTX 630, Radeon HD 5670",4 GB available space,13e70cb21eda428dbdf8d8b0a013880f
+Windows 10/7/8/8.1/Vista (64 bit),2.66GHz Intel Core i7,6 GB RAM,"Intel HD Graphics 5200, NVIDIA GeForce GTX 750, Radeon HD 7800",4 GB available space,13e70cb21eda428dbdf8d8b0a013880f
+Windows 7+ (64-bits),Core i3 2.4Ghz,6GB RAM,NVIDIA GeForce GT 640,15 GB,91a881b260bb455d97aeea0d205aa178
+Windows 10 (64-bits),Core i5 2.8GHz,8GB RAM,Nvidia GeForce GTX 970,15 GB,91a881b260bb455d97aeea0d205aa178
+OS 64-bit Windows 7,Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940,8,NVIDIA GeForce GTX 660 / Radeon HD 7870,50 ,f536990dc8164c829b410861caf17add
+OS 64-bit Windows 7 / 64-bit Windows 8 (8.1) or Windows 10,"Intel CPU Core i7 3770 3,4 GHz / AMD CPU AMD FX-8350 4 GHz",8,Nvidia GPU GeForce GTX 770 / AMD GPU Radeon R9 290,50,f536990dc8164c829b410861caf17add
+Windows 7/8/10 [64-bit],3.0 GHz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 660 or AMD Radeon HD 7870 with 2GB VRAM,1GB,93646f6055c849cc8c1f34f2292f8040
+Windows 7/8/10 [64-bit],3.5 GHz Intel Core i5 or AMD FX,8GB RAM,Nvidia GTX 960 or AMD Radeon HD 7990 with 4GB VRAM,1GB,93646f6055c849cc8c1f34f2292f8040
+Windows 10,Intel Core i3-2100 | AMD FX-4350,4 GB,"Nvidia GeForce GTX 650, 1 GB | AMD Radeon HD 7770, 1 GB",30,2c328a34978546a487861d442713a8e0
+ Windows 7 SP1 or Windows 8.1 or Windows 10 (64bit versions),Intel Core i5 750 @ 2.6 GHz or AMD,4 GB RAM,nVidia GeForce GTX460 or AMD Radeon HD5870 (1024MB VRAM with Shader Model 5.0),7,f5f7971517134ed488fd51974563f5f5
+Windows 7 SP1 or Windows 8.1 or Windows 10(64bit versions), Intel Core i5 2400s @ 2.5 GHz or AMD FX 4100 @ 3.6,8 GB RAM,"nVidia GeForce GTX 680 or AMD Radeon HD7970 or better (2048MB VRAM or more, with Shader Model 5.0)",7,f5f7971517134ed488fd51974563f5f5
+"Windows 7, 8, 10",Intel Core2 Duo E4500 (2 * 2200) or equivalent/AMD Athlon 64 X2 4200+ (2 * 2200) or equivalent, 1 GB RAM,GeForce 8500 GT (512 MB)/Radeon HD 4350 (512 MB),6 GB available space,72cbf73f83ea4437b142e143a1c78562
+"Windows 7, 8, 10",Intel Core2 Duo E4500 (2 * 2200) or equivalent/AMD Athlon 64 X2 4200+ (2 * 2200) or equivalent, 2 GB RAM,GeForce 8500 GT (512 MB)/Radeon HD 4350 (512 MB),6 GB available space,72cbf73f83ea4437b142e143a1c78562
+Windows 7,Intel Core i5-2300 | AMD FX-4350,4 GB,"Nvidia GeForce GTS 450, 1 GB | AMD Radeon HD 7770, 1 GB",8 GB,0c4c8698988c41c6bdfd811ffccf4384
+Windows 10,Intel Core i7-3770 | AMD Ryzen 5 1600,4 GB,"Nvidia GeForce GTX 660, 2 GB | AMD Radeon HD 7870, 2 GB",10 GB,0c4c8698988c41c6bdfd811ffccf4384
+Mojave 10.14.6,2.5 GHz Intel Core I7,4 GB,Radeon Pro 560 4Go,8 GB,4d6f7c738cb6468d8fccce3de8d5d02e
+Mojave 10.14.6,3.6 GHz Intel Core I7,8 GB,Radeon Pro 560 4Go,8 GB,4d6f7c738cb6468d8fccce3de8d5d02e
+Windows 10 64-Bit,Intel(R) Core(TM) i5-3450 / AMD Ryzen 3,8GB,NVIDIA GeForce GTX 1050 TI /AMD Radeon 470 ,20GB,fc589c4813fc447280d432bc8c39081a
+Windows 10 64-Bit latest update,Intel(R) Core(TM) i5-7600k or higher / AMD Ryzen 5 or higher,12GB,NVIDIA GeForce GTX 1660 TI / AMD Radeon Vega 56,20GB,fc589c4813fc447280d432bc8c39081a
+Windows 7,Intel i3 2xxx 2.5 GHz / AMD equivalent,4GB,Nvidia GeForce 700 series / AMD equivalent,6GB,935cf741114c47edb9cdbf2050630ae4
+Windows 7 (64 bit) or Newer (64 bit) Windows OS,2.5 GHz Dual core,4GB,"NVIDIA GeForce 760, AMD Radeon R7 270X, or better",20GB,02d44be4c21c4ce094c6151133c91482
+Windows 7 (64 bit) or Newer (64 bit) Windows OS,3.0+ GHz Quad core,8GB,"NVIDIA GeForce GTX 1060, AMD Radeon RX 470, or better",20GB,02d44be4c21c4ce094c6151133c91482
+Mac OS 10.13,Intel Core i3 2.9 GHz or AMD equivalent,4 GB,Nvidia GeForce GTX650 or AMD equivalent,3 GB,8a2dd95a9fe04bdebde02b46a8f41aed
+Mac OS 10.13,Intel Core i5 3.6 GHz or AMD equivalent,8 GB,Nvidia GeForce GTX970 or AMD equivalent,3 GB,8a2dd95a9fe04bdebde02b46a8f41aed
+Windows 10 Pro,Intel Core i5 3330 (3.0GHz),8GB,AMD Radeon™ R7 260X / NVIDIA® GeForce® GTX 750 / 1 GB VRAM / Shader Model 5.0 or higher graphics card is required,40GB ,10423f6206ae42d9acb0f02ac1c45d8d
+Windows 10 Pro,"AMD Ryzen 3 1200 (3.1GHz), Intel Core i5 6500 (3.2GHz)",8GB,AMD Radeon™ R7 370 / NVIDIA® GeForce® GTX 960 / 2 GB VRAM,40GB ,10423f6206ae42d9acb0f02ac1c45d8d
+Windows 7 and up,2GHz CPU w. dual-core,4 GB RAM,ATI HD 4810 / Nvidia 9600GT or higher,3 GB,9cbce2178e694841bd63dc31d91e6868
+Windows 10 x64,Intel i5 / AMD Ryzen 5 or higher,8 GB RAM,NVIDIA GeForce GTX 560 / AMD HD 6870 or higher,3 GB,9cbce2178e694841bd63dc31d91e6868
+Windows 7 and Above,Intel or AMD Dual Core Processor,2GB RAM,256MB Graphics Memory / Intel HD 4000,2GB,4ec50a302f1449b3bf706a199c333ab8
+Windows 7 and Above,Intel i3 Processor,4GB RAM,Nvidia GTX560,2GB,4ec50a302f1449b3bf706a199c333ab8
+Windows 10 64-bit,Intel Core-i5 2550K 3.4GHz / AMD FX 8120 3.1 GHz,6 GB,NVIDIA GeForce GTX 660 / AMD Radeon HD 7870,50,631d2b0a5f204909bf401cb5696c8f42
+OS: Windows 7 64-bit,Intel CPU: I5-2500K AMD CPU: AMD FX-8120,6 GB,AMD GPU: Radeon HD7870 NVIDIA GPU: GeForce GTX 660,60 GB,0fc946078be6410ba6cf29b7f54157c2
+OS: Windows 7 64-bit,Intel CPU: I7-3770 AMD CPU: AMD FX 8350 4.0 Ghz,8 GB,AMD GPU: Radeon R9 290X NVIDIA GPU: GeForce GTX 780,60 GB,0fc946078be6410ba6cf29b7f54157c2
+Windows 8.1 64-bit,Intel CPU: I5-2500K AMD CPU: AMD FX-8120,6 GB,NVIDIA GPU: GeForce GTX 660 AMD GPU: Radeon HD7870,50 GB,7e235e4287d94ebe9b73bbc5c9380a34
+Windows 8.1 64-bit,Intel CPU: I7-3770 AMD CPU: AMD FX 8350 4.0 Ghz,8 GB,NVIDIA GPU: GeForce GTX 780 AMD GPU: Radeon R9 290X,50 GB,7e235e4287d94ebe9b73bbc5c9380a34
+Windows 8.1 or Windows 10 (64bit versions),"AMD or Intel, Intel Core i5 2400s @ 2.5 GHz or AMD FX 4100 @ 3.6",8 GB,"nVidia GeForce GTX 680 or AMD Radeon HD7970 or better (2048MB VRAM or more, with Shader Model 5.0)",10 GB available space,1db39c1d6db04d8f9d5f198254e6a2df
+Windows 8.1 or Windows 10 (64bit versions),"AMD or Intel, Intel Core i5 7400s @ 3.5 GHz or AMD Ryzen 5 @ 3.4 GHz",16 GB,"nVidia GeForce GTX 1060 or AMD Radeon RX 580 or better (4096MB VRAM or more, with Shader Model 5.0)",10 GB available space,1db39c1d6db04d8f9d5f198254e6a2df
+Windows 7 64-bit,Intel Core i3-2100 | AMD Phenom II X4 965,4GB,"Nvidia GeForce GTS 450, 1 GB | AMD Radeon R7 250, 1 GB",2GB,69ed50cc40734c87b29da42d62093777
+Windows 10 64-bit,Intel Core i5-3470 | AMD FX-6300,4GB,"Nvidia GeForce GTX 960, 4 GB | AMD Radeon R9 380, 4 GB",4GB,69ed50cc40734c87b29da42d62093777
+Windows 7 64 bit,Intel(R) Core i5-2320,4GB,Nvidia GTX 650,20GB,36bfbc7a0b664a2891c68dc947922469
+Windows 10,Intel Core i7,16GB,Nvidia GTX 960,20GB,36bfbc7a0b664a2891c68dc947922469
+Mac OS X 10.8 or later,Intel i5-2520M,4 GB RAM,Radeon HD 6630 (256 MB),300 MB available space,559d2ae2577e463eb9f914883795935e
+Mac OS X 10.8 or later,Intel i5-2520M,4 GB RAM,Radeon HD 6630 (256 MB),300 MB available space,559d2ae2577e463eb9f914883795935e
+Windows® XP (32-64 bits) /Windows Vista®(32-64 bits)/Windows 7® (32-64 bits),Intel Core® 2 Duo 1.8 GHZ or AMD Athlon X2 64 2.4GHZ,1.5 GB Windows® XP / 2 GB Windows Vista® - Windows 7®,256 MB DirectX® 9.0–compliant card with Shader Model 3.0 or higher (see supported list),8 GB free space,08d5b9d2e8304c3ab5dfea6694d17bac
+Windows® XP (32-64 bits) /Windows Vista®(32-64 bits)/Windows 7® (32-64 bits),Intel Core® 2 Duo E6700 2.6 GHz or AMD Athlon 64 X2 6000+ or better,1.5 GB Windows® XP / 2 GB Windows Vista® - Windows 7®,GeForce 8800 GT or ATI Radeon HD 4700 or better,8 GB free space,08d5b9d2e8304c3ab5dfea6694d17bac
+Windows® 8 or 10 (64-bit),Core 2 Duo 2.2Ghz (or equivalent AMD CPU),4GB RAM,"NVidia GeForce GTX 4xx, ATI/AMD Radeon HD 5xxx, or Intel HD Graphics 4xxx (Direct3D Hardware Feature Level 11)",21GB,c97c99cb46a244db9447cfaf60e0ec3b
+Windows® 10,Core i5-6xxx Quad Core or better,6GB RAM or better,NVidia GeForce GTX 9xx or AMD Radeon RX 4xx or better,21GB,c97c99cb46a244db9447cfaf60e0ec3b
+"Windows 7 SP1, Windows 8.1, Windows 10 (64 -bit versions only)",Intel Core i3 @ 2.5GHz or AMD Phenom @ 2.5GHz,4 GB RAM,NVIDIA GeForce GTX 460 or ATI Radeon HD 5850,60 GB available space,b19d810d322240e7b37bcf84ffac60ce
+"Windows 7 SP1, Windows 8.1, Windows 10 (64 -bit versions only)",Intel Core i5 @ 3.2GHz or AMD @ 4.0GHz or better, 6 GB RAM,NVIDIA GeForce GTX 760 or AMD R9 270X or better,60 GB available space,b19d810d322240e7b37bcf84ffac60ce
+Windows 10,Intel Core i5-2300 | AMD FX-4350,4 GB,"Nvidia GeForce GTX 460, 768 MB | AMD Radeon HD 6870, 1 GB",7 GB,0346e47d191443aeaf9d7e16127eefed
+Windows 10,Intel Core i5-4570 | AMD Ryzen 3 1300X,4 GB,"Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7870, 2 GB",8 GB,0346e47d191443aeaf9d7e16127eefed
+Windows 10,64-bit processor,4GB RAM,"Intel HD 4000, GeForce GT 330M, Radeon HD 4670 or equivalent",4GB Disc Space,414d009979b7464f9a4a3a40507039ab
+Windows 10,64-bit processor,4GB RAM,"GeForce 560 or higher, AMD Radeon HD 5830 or higher",4GB Disc Space,414d009979b7464f9a4a3a40507039ab
+Windows 7+,2.66 Ghz Core 2 Duo or Greater,4 GB,GeForce 500+ / Radeon 5000+ or Greater,3 GB,2c864736705c48549288f803a113cf96
+Windows 8.1+,2.33 GHz Quad Core or Greater,8 GB,GeForce 600+ / Radeon 6000+,3 GB,2c864736705c48549288f803a113cf96
+Windows Vista,Intel Core i3 / AMD A6 CPU or equivalent.,2 GB RAM,NVIDIA GeForce 200 / AMD Radeon HD 5000 or equivalent.,5 GB,8080b4a777b54ec8a1ded2c8e7ec40a4
+Windows 7,Intel Core i5 / AMD FX CPU or equivalent.,4 GB RAM,NVIDIA GeForce 400 / AMD Radeon HD 6000 or equivalent.,5 GB,8080b4a777b54ec8a1ded2c8e7ec40a4
+Windows 7 64-bit,Intel Core i5-4400 (3.1 GHz) / AMD FX-6300 (3.5 GHz),8 GB,GeForce GTX 760 / AMD Radeon R9 270,3 GB,25de133cd3ab42718246f5aa0ca79272
+Windows 10 64-bit,Intel Core i5-7400 (3.50 GHz) / AMD FX-8100 (2.8 GHz),16 GB,GeForce GTX 1060 / AMD RX 480,3 GB,25de133cd3ab42718246f5aa0ca79272
+Windows 7, Intel Core i5-6500,8 Gb,GeForce GTX 970 Or equivalent,6Gb,6fe9d857f3a04f3c8c96218250c2035d
+Windows 10, Intel Core i7-6600,8 Gb,GeForce GTX 1070 or equivalent,6Gb,6fe9d857f3a04f3c8c96218250c2035d
+Windows 7 or higher (64 bit),3.3 GHz or higher: AMD A8-6600K or Intel Core i7-950 or newer,8 GB,"Direct3D 11, Shader Model 5.1 capable video card (GeForce GTX 560 2GB RAM or Radeon HD 7870 4GB RAM)",30 GB,f4a262e3de4a4ea9b8981ba7e9387cda
+Windows 10,AMD/INTEL 3.5 GHz (AMD Ryzen 5 1500x or Intel Core i5-6600K or newer),8 GB,AMD/NVIDIA with at least 8 GB VRAM (Radeon RX 580 8GB or Nvidia GTX 1060 6GB),30 GB,f4a262e3de4a4ea9b8981ba7e9387cda
+Windows 7,intel i5,8GB RAM,intel HD3000,800MB,5b49e5e38c3848afb71f6825da275047
+Windows 10,intel i7,16GB RAM,intel HD3000,1GB,5b49e5e38c3848afb71f6825da275047
+Windows Vista,1.8 GHz dual core CPU,4 GB Ram,"256 MB GeForce 8800, Radeon 3850, or Intel HD 3000 Graphics",1500 MB available,62488ccca67b455891967a4cfc6dea24
+Windows 7,"Intel Core 2 Duo at 2.2 GHZ, or AMD Athlon 64 at 2.2 GHz",4 GB Ram,"512 MB GeForce 220, Radeon 4550, Intel HD 4000 Graphics",1500 MB available,62488ccca67b455891967a4cfc6dea24
+Windows 7,Intel Core i5-3470 (3.2 GHz) / AMD A8-7600 (3.1 GHz),5 GB RAM,GeForce GTX 750 Ti / AMD Radeon R7 265,14 GB Available Space,dd36293739384a63886ccdc39bc02993
+Windows 10, Intel Core i5-6500 (3.2 GHz) / AMD Ryzen 5 1600,8 GB RAM,GeForce GTX 1070 / AMD Radeon RX 590,14 GB Available Space,dd36293739384a63886ccdc39bc02993
+Windows 7+,Intel i5+,2 GB RAM,Nvidia 450 GTS / Radeon HD 5750 or better,800 MB available space,0357efab61f146289d74880509df7302
+Windows 7+,Intel i5+,4 GB RAM,Nvidia GTX 460 / Radeon HD 7800 or better,800 MB available space,0357efab61f146289d74880509df7302
+Windows 7,"Intel Core i5-3330 3.0 GHz, AMD FX-8300 3.3 GHz",4 GB RAM,"NVIDIA GeForce GTX 760, Radeon R9 270",5 GB available space,884945f5443a4c20a93d9ce9e2dd518a
+Windows 10,"Intel Core i5-4690 3.5 GHz, AMD Ryzen 3 1300X 3.5 GHz",6 GB RAM,"NVIDIA GeForce GTX 1050Ti, Radeon RX 560",5 GB available space,884945f5443a4c20a93d9ce9e2dd518a
+Windows 10,Intel core i5-2300 | AMD Phenom II X6 1090T,4GB,"Nvidia GeForce GTX 660, 2 GB | AMD Radeon R7 360, 2 GB",2GB,687b64a3e1194e69992f9caea70d77c4
+Windows 10,Intel Core i5-6600 | AMD Ryzen 3 1300X,4GB,"Nvidia GeForce GTX 780, 3 GB | AMD Radeon R9 290, 4 GB",4GB,687b64a3e1194e69992f9caea70d77c4
+OS X El Captain (10.11),Intel or AMD Dual Core at 2 GHz,4 GB RAM,"Geforce 9600 GS, Radeon HD 5670",2 GB,3f683b83c93d449396da629b66b89be6
+Mac OS X 10.14.6,Intel Core i3-4340 / AMD FX-6300,4 GB RAM,NVIDIA GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB,3GB,efb29f98a9974fc78bfdd66e69c6d7ab
+Mac OS X 10.14.6 +,Intel Core i5-6400 / AMD Ryzen 5 1600,8 GB RAM,NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB,3GB,efb29f98a9974fc78bfdd66e69c6d7ab
+OSX 10.12+,2 core processor,1024 MB RAM,Compatible with OpenGL 3.0,500 MB,4e3bae011096422d92a56fadfafacd2e
+OSX 10.12+,4 core processor,2048 MB RAM,Compatible with OpenGL 3.0,500 MB,4e3bae011096422d92a56fadfafacd2e
+Windows 7,Intel Core i3-3220 (3.30 GHz) / AMD A8-7600 (3.1 GHz),4 GB,GeForce GTX 750 Ti / AMD Radeon R7 265,16 GB available space,8b62502ac3774dd5b43e208bb2a46ef3
+Windows 10,Intel Core i5-6500 (3.2 GHz) / AMD Ryzen 5 1600,8 GB,GeForce GTX 1070 / AMD Radeon RX 590,16 GB available space,8b62502ac3774dd5b43e208bb2a46ef3
+Windows 7/8.1/10 64 Bit,Intel Core 2 Duo 3.0 GHz/Intel i7 8550U 1.80GHz,4 GB/6 GB (It is 4 for dedicated GPU and 6 for integrated one),Nvidia GTX 460 1GB/AMD Radeon HD 5770 1 GB/Intel UHD Graphics 620,26 GB,aa05ffff3f9a466e95f76fcb5af9420b
+Windows 7/8.1/10 64 Bit,Intel i5-6600 / Ryzen 5 2600X,8 GB,Nvidia GTX 970 / AMD Radeon R9 270X 2 GB,26 GB,aa05ffff3f9a466e95f76fcb5af9420b
+Windows 7 64-bit,Intel Quad Core 2.8 GHz (i7 900 series) or 3.5 GHz AMD (FX 6000 series),4GB RAM,"AMD/NVIDIA, with at least 1024MB of dedicated VRAM & Shader Model 5.0 support (AMD Radeon HD 7000 series, NVIDIA GeForce GTX 600 series)",5,256fe52d342c4b65ac34997a610d9384
+Windows 10 64-bit,Quad core 3.5 GHz or higher (Intel i5 4000 Series / AMD Ryzen 3 Series),8GB RAM,"AMD/NVIDIA, with at least 3072MB of dedicated VRAM & Shader Model 5.0 support (AMD R9 300 Series & NVIDIA GeForce GTX 900 Series or better)",5,256fe52d342c4b65ac34997a610d9384
+Windows 7 (64 bit) or Newer (64 bit) Windows OS,8 Core Custom AMD 1.75 MHz or Core i5-4690 series,8 GB RAM,"AMD HD 7790, NVIDA GeForce GTX 750",10GB,29958fab494f4c1393c5208fd770cb89
+Windows 7 (64 bit) or Newer (64 bit) Windows OS,Intel Core i7-4790k @ 4.0 GHz,16 GB RAM,"AMD Radeon R9 390, NVIDA GeForce GTX 970",10 GB,29958fab494f4c1393c5208fd770cb89
+Windows® 8 or 10 (64-bit),Core 2 Duo 2.2Ghz (or equivalent AMD CPU),4 GB RAM,"NVidia GeForce GTX 4xx, ATI/AMD Radeon HD 5xxx, or Intel HD Graphics 4xxx (Direct3D Hardware Feature Level 11)",21 GB available space,db2d81bb32a845b5bfb1e768e120e2ac
+Windows® 10,Core i5-6xxx Quad Core or better,6 GB RAM or better,NVidia GeForce GTX 9xx or AMD Radeon RX 4xx or better,21 GB available space,db2d81bb32a845b5bfb1e768e120e2ac
+Windows 7/10 - 64 bit,Intel Core i5-3470 / AMD Ryzen 3 1200,8 GB,@1280x720: GeForce GTX 1050 3 GB / Radeon RX 560 4 GB,16 GB,c7aaa2e680fd4dceb5fc87eebe80ade9
+Windows 10 - 64 bit,Intel Core i7-3770 / AMD Ryzen 5 1600,16 GB,@60 FPS (1920x1080): GeForce GTX 1060 6 GB/ Radeon RX 590,16 GB,c7aaa2e680fd4dceb5fc87eebe80ade9
+macOS 10.13 High Sierra,Intel Quad Core 2.6 Ghz or equivalent,6 GB,Intel HD 630,6.7 GB,98fe272aa19540dfb4a2359ddb8d24fe
+macOS 10.15 Catalina,Intel Core i5 2.8 Ghz or better,8 GB,AMD Radeon Pro 5500M or better,7.5 GB,98fe272aa19540dfb4a2359ddb8d24fe
+Windows 10,Intel Core i5-2300 | AMD FX-4350 ,6 GB RAM,Nvidia GeForce GTX 660 | AMD Radeon HD 7870,15 GB of free space,6820f3467b8a4d2aa9b7d76d0fa9f441
+Windows 10,Intel Core i7-6700 | AMD Ryzen 7 1800X ,8 GB RAM,Nvidia GeForce GTX 1070 | AMD Radeon RX Vega 56,15 GB of free space,6820f3467b8a4d2aa9b7d76d0fa9f441
